@@ -1,0 +1,776 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8494927B28FD2F9600F40405 /* MYTrstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8494927928FD2F9600F40405 /* MYTrstViewController.m */; };
+		8494927C28FD2F9600F40405 /* MYTrstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8494927A28FD2F9600F40405 /* MYTrstViewController.xib */; };
+		84B6A83F28F95BDD0042182E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A83E28F95BDD0042182E /* AppDelegate.m */; };
+		84B6A84228F95BDD0042182E /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A84128F95BDD0042182E /* SceneDelegate.m */; };
+		84B6A84528F95BDD0042182E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A84428F95BDD0042182E /* ViewController.m */; };
+		84B6A84828F95BDD0042182E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A84628F95BDD0042182E /* Main.storyboard */; };
+		84B6A84A28F95BDE0042182E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A84928F95BDE0042182E /* Assets.xcassets */; };
+		84B6A84D28F95BDE0042182E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A84B28F95BDE0042182E /* LaunchScreen.storyboard */; };
+		84B6A85028F95BDE0042182E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A84F28F95BDE0042182E /* main.m */; };
+		84B6A85A28F95BDE0042182E /* MYWordListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A85928F95BDE0042182E /* MYWordListTests.m */; };
+		84B6A86428F95BDE0042182E /* MYWordListUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A86328F95BDE0042182E /* MYWordListUITests.m */; };
+		84B6A86628F95BDE0042182E /* MYWordListUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A86528F95BDE0042182E /* MYWordListUITestsLaunchTests.m */; };
+		84B6A87628F95DB70042182E /* MYWholeWordsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A87428F95DB70042182E /* MYWholeWordsViewController.m */; };
+		84B6A87728F95DB70042182E /* MYWholeWordsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A87528F95DB70042182E /* MYWholeWordsViewController.xib */; };
+		84B6A87A28F95E340042182E /* 2011words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A87928F95E340042182E /* 2011words.plist */; };
+		84B6A88128F960B90042182E /* MYWordListTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A87F28F960B90042182E /* MYWordListTableViewCell.m */; };
+		84B6A88228F960B90042182E /* MYWordListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A88028F960B90042182E /* MYWordListTableViewCell.xib */; };
+		84B6A88628F961310042182E /* MyWordsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A88528F961310042182E /* MyWordsModel.m */; };
+		84B6A88B28F96BEC0042182E /* MYYearsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A88928F96BEC0042182E /* MYYearsViewController.m */; };
+		84B6A88C28F96BEC0042182E /* MYYearsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A88A28F96BEC0042182E /* MYYearsViewController.xib */; };
+		84B6A89028F96CDB0042182E /* example.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A88F28F96CDB0042182E /* example.plist */; };
+		84B6A89C28F96FF70042182E /* 2022words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89128F96FF60042182E /* 2022words.plist */; };
+		84B6A89D28F96FF70042182E /* 2021words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89228F96FF60042182E /* 2021words.plist */; };
+		84B6A89E28F96FF70042182E /* 2012words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89328F96FF60042182E /* 2012words.plist */; };
+		84B6A89F28F96FF70042182E /* 2014words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89428F96FF60042182E /* 2014words.plist */; };
+		84B6A8A028F96FF70042182E /* 2019words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89528F96FF60042182E /* 2019words.plist */; };
+		84B6A8A128F96FF70042182E /* 2013words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89628F96FF60042182E /* 2013words.plist */; };
+		84B6A8A228F96FF70042182E /* 2020words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89728F96FF60042182E /* 2020words.plist */; };
+		84B6A8A328F96FF70042182E /* 2017words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89828F96FF60042182E /* 2017words.plist */; };
+		84B6A8A428F96FF70042182E /* 2016words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89928F96FF60042182E /* 2016words.plist */; };
+		84B6A8A528F96FF70042182E /* 2015words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89A28F96FF60042182E /* 2015words.plist */; };
+		84B6A8A628F96FF70042182E /* 2018words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84B6A89B28F96FF70042182E /* 2018words.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		84B6A85628F95BDE0042182E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 84B6A83228F95BDD0042182E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 84B6A83928F95BDD0042182E;
+			remoteInfo = MYWordList;
+		};
+		84B6A86028F95BDE0042182E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 84B6A83228F95BDD0042182E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 84B6A83928F95BDD0042182E;
+			remoteInfo = MYWordList;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8494927828FD2F9600F40405 /* MYTrstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MYTrstViewController.h; sourceTree = "<group>"; };
+		8494927928FD2F9600F40405 /* MYTrstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYTrstViewController.m; sourceTree = "<group>"; };
+		8494927A28FD2F9600F40405 /* MYTrstViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MYTrstViewController.xib; sourceTree = "<group>"; };
+		84B6A83A28F95BDD0042182E /* MYWordList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MYWordList.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84B6A83D28F95BDD0042182E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		84B6A83E28F95BDD0042182E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		84B6A84028F95BDD0042182E /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
+		84B6A84128F95BDD0042182E /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
+		84B6A84328F95BDD0042182E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		84B6A84428F95BDD0042182E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		84B6A84728F95BDD0042182E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84B6A84928F95BDE0042182E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		84B6A84C28F95BDE0042182E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84B6A84E28F95BDE0042182E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84B6A84F28F95BDE0042182E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		84B6A85528F95BDE0042182E /* MYWordListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MYWordListTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		84B6A85928F95BDE0042182E /* MYWordListTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYWordListTests.m; sourceTree = "<group>"; };
+		84B6A85F28F95BDE0042182E /* MYWordListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MYWordListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		84B6A86328F95BDE0042182E /* MYWordListUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYWordListUITests.m; sourceTree = "<group>"; };
+		84B6A86528F95BDE0042182E /* MYWordListUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYWordListUITestsLaunchTests.m; sourceTree = "<group>"; };
+		84B6A87328F95DB70042182E /* MYWholeWordsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MYWholeWordsViewController.h; sourceTree = "<group>"; };
+		84B6A87428F95DB70042182E /* MYWholeWordsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYWholeWordsViewController.m; sourceTree = "<group>"; };
+		84B6A87528F95DB70042182E /* MYWholeWordsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MYWholeWordsViewController.xib; sourceTree = "<group>"; };
+		84B6A87928F95E340042182E /* 2011words.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = 2011words.plist; sourceTree = "<group>"; };
+		84B6A87E28F960B90042182E /* MYWordListTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MYWordListTableViewCell.h; sourceTree = "<group>"; };
+		84B6A87F28F960B90042182E /* MYWordListTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYWordListTableViewCell.m; sourceTree = "<group>"; };
+		84B6A88028F960B90042182E /* MYWordListTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MYWordListTableViewCell.xib; sourceTree = "<group>"; };
+		84B6A88428F961310042182E /* MyWordsModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyWordsModel.h; sourceTree = "<group>"; };
+		84B6A88528F961310042182E /* MyWordsModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyWordsModel.m; sourceTree = "<group>"; };
+		84B6A88828F96BEC0042182E /* MYYearsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MYYearsViewController.h; sourceTree = "<group>"; };
+		84B6A88928F96BEC0042182E /* MYYearsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYYearsViewController.m; sourceTree = "<group>"; };
+		84B6A88A28F96BEC0042182E /* MYYearsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MYYearsViewController.xib; sourceTree = "<group>"; };
+		84B6A88F28F96CDB0042182E /* example.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = example.plist; sourceTree = "<group>"; };
+		84B6A89128F96FF60042182E /* 2022words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2022words.plist; sourceTree = "<group>"; };
+		84B6A89228F96FF60042182E /* 2021words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2021words.plist; sourceTree = "<group>"; };
+		84B6A89328F96FF60042182E /* 2012words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2012words.plist; sourceTree = "<group>"; };
+		84B6A89428F96FF60042182E /* 2014words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2014words.plist; sourceTree = "<group>"; };
+		84B6A89528F96FF60042182E /* 2019words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2019words.plist; sourceTree = "<group>"; };
+		84B6A89628F96FF60042182E /* 2013words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2013words.plist; sourceTree = "<group>"; };
+		84B6A89728F96FF60042182E /* 2020words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2020words.plist; sourceTree = "<group>"; };
+		84B6A89828F96FF60042182E /* 2017words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2017words.plist; sourceTree = "<group>"; };
+		84B6A89928F96FF60042182E /* 2016words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2016words.plist; sourceTree = "<group>"; };
+		84B6A89A28F96FF60042182E /* 2015words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2015words.plist; sourceTree = "<group>"; };
+		84B6A89B28F96FF70042182E /* 2018words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 2018words.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		84B6A83728F95BDD0042182E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84B6A85228F95BDE0042182E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84B6A85C28F95BDE0042182E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8494927728FD2F7600F40405 /* 测试 */ = {
+			isa = PBXGroup;
+			children = (
+				8494927828FD2F9600F40405 /* MYTrstViewController.h */,
+				8494927928FD2F9600F40405 /* MYTrstViewController.m */,
+				8494927A28FD2F9600F40405 /* MYTrstViewController.xib */,
+			);
+			path = "测试";
+			sourceTree = "<group>";
+		};
+		84B6A83128F95BDD0042182E = {
+			isa = PBXGroup;
+			children = (
+				84B6A83C28F95BDD0042182E /* MYWordList */,
+				84B6A85828F95BDE0042182E /* MYWordListTests */,
+				84B6A86228F95BDE0042182E /* MYWordListUITests */,
+				84B6A83B28F95BDD0042182E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		84B6A83B28F95BDD0042182E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A83A28F95BDD0042182E /* MYWordList.app */,
+				84B6A85528F95BDE0042182E /* MYWordListTests.xctest */,
+				84B6A85F28F95BDE0042182E /* MYWordListUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		84B6A83C28F95BDD0042182E /* MYWordList */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A87828F95E210042182E /* Resource */,
+				84B6A87228F95BE60042182E /* VC */,
+				84B6A83D28F95BDD0042182E /* AppDelegate.h */,
+				84B6A83E28F95BDD0042182E /* AppDelegate.m */,
+				84B6A84028F95BDD0042182E /* SceneDelegate.h */,
+				84B6A84128F95BDD0042182E /* SceneDelegate.m */,
+				84B6A84328F95BDD0042182E /* ViewController.h */,
+				84B6A84428F95BDD0042182E /* ViewController.m */,
+				84B6A84628F95BDD0042182E /* Main.storyboard */,
+				84B6A84928F95BDE0042182E /* Assets.xcassets */,
+				84B6A84B28F95BDE0042182E /* LaunchScreen.storyboard */,
+				84B6A84E28F95BDE0042182E /* Info.plist */,
+				84B6A84F28F95BDE0042182E /* main.m */,
+			);
+			path = MYWordList;
+			sourceTree = "<group>";
+		};
+		84B6A85828F95BDE0042182E /* MYWordListTests */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A85928F95BDE0042182E /* MYWordListTests.m */,
+			);
+			path = MYWordListTests;
+			sourceTree = "<group>";
+		};
+		84B6A86228F95BDE0042182E /* MYWordListUITests */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A86328F95BDE0042182E /* MYWordListUITests.m */,
+				84B6A86528F95BDE0042182E /* MYWordListUITestsLaunchTests.m */,
+			);
+			path = MYWordListUITests;
+			sourceTree = "<group>";
+		};
+		84B6A87228F95BE60042182E /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				8494927728FD2F7600F40405 /* 测试 */,
+				84B6A88728F96BDC0042182E /* 年份 */,
+				84B6A87B28F9606F0042182E /* 所有单词页面 */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
+		84B6A87828F95E210042182E /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A87928F95E340042182E /* 2011words.plist */,
+				84B6A89328F96FF60042182E /* 2012words.plist */,
+				84B6A89628F96FF60042182E /* 2013words.plist */,
+				84B6A89428F96FF60042182E /* 2014words.plist */,
+				84B6A89A28F96FF60042182E /* 2015words.plist */,
+				84B6A89928F96FF60042182E /* 2016words.plist */,
+				84B6A89828F96FF60042182E /* 2017words.plist */,
+				84B6A89B28F96FF70042182E /* 2018words.plist */,
+				84B6A89528F96FF60042182E /* 2019words.plist */,
+				84B6A89728F96FF60042182E /* 2020words.plist */,
+				84B6A89228F96FF60042182E /* 2021words.plist */,
+				84B6A89128F96FF60042182E /* 2022words.plist */,
+				84B6A88F28F96CDB0042182E /* example.plist */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		84B6A87B28F9606F0042182E /* 所有单词页面 */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A88328F9611B0042182E /* Model */,
+				84B6A87C28F9607B0042182E /* VC */,
+				84B6A87D28F960880042182E /* Cell */,
+			);
+			path = "所有单词页面";
+			sourceTree = "<group>";
+		};
+		84B6A87C28F9607B0042182E /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A87328F95DB70042182E /* MYWholeWordsViewController.h */,
+				84B6A87428F95DB70042182E /* MYWholeWordsViewController.m */,
+				84B6A87528F95DB70042182E /* MYWholeWordsViewController.xib */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
+		84B6A87D28F960880042182E /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A87E28F960B90042182E /* MYWordListTableViewCell.h */,
+				84B6A87F28F960B90042182E /* MYWordListTableViewCell.m */,
+				84B6A88028F960B90042182E /* MYWordListTableViewCell.xib */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		84B6A88328F9611B0042182E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A88428F961310042182E /* MyWordsModel.h */,
+				84B6A88528F961310042182E /* MyWordsModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		84B6A88728F96BDC0042182E /* 年份 */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A88D28F96C220042182E /* VC */,
+			);
+			path = "年份";
+			sourceTree = "<group>";
+		};
+		84B6A88D28F96C220042182E /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				84B6A88828F96BEC0042182E /* MYYearsViewController.h */,
+				84B6A88928F96BEC0042182E /* MYYearsViewController.m */,
+				84B6A88A28F96BEC0042182E /* MYYearsViewController.xib */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		84B6A83928F95BDD0042182E /* MYWordList */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84B6A86928F95BDE0042182E /* Build configuration list for PBXNativeTarget "MYWordList" */;
+			buildPhases = (
+				84B6A83628F95BDD0042182E /* Sources */,
+				84B6A83728F95BDD0042182E /* Frameworks */,
+				84B6A83828F95BDD0042182E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MYWordList;
+			productName = MYWordList;
+			productReference = 84B6A83A28F95BDD0042182E /* MYWordList.app */;
+			productType = "com.apple.product-type.application";
+		};
+		84B6A85428F95BDE0042182E /* MYWordListTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84B6A86C28F95BDE0042182E /* Build configuration list for PBXNativeTarget "MYWordListTests" */;
+			buildPhases = (
+				84B6A85128F95BDE0042182E /* Sources */,
+				84B6A85228F95BDE0042182E /* Frameworks */,
+				84B6A85328F95BDE0042182E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				84B6A85728F95BDE0042182E /* PBXTargetDependency */,
+			);
+			name = MYWordListTests;
+			productName = MYWordListTests;
+			productReference = 84B6A85528F95BDE0042182E /* MYWordListTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		84B6A85E28F95BDE0042182E /* MYWordListUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84B6A86F28F95BDE0042182E /* Build configuration list for PBXNativeTarget "MYWordListUITests" */;
+			buildPhases = (
+				84B6A85B28F95BDE0042182E /* Sources */,
+				84B6A85C28F95BDE0042182E /* Frameworks */,
+				84B6A85D28F95BDE0042182E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				84B6A86128F95BDE0042182E /* PBXTargetDependency */,
+			);
+			name = MYWordListUITests;
+			productName = MYWordListUITests;
+			productReference = 84B6A85F28F95BDE0042182E /* MYWordListUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84B6A83228F95BDD0042182E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+				TargetAttributes = {
+					84B6A83928F95BDD0042182E = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					84B6A85428F95BDE0042182E = {
+						CreatedOnToolsVersion = 13.2.1;
+						TestTargetID = 84B6A83928F95BDD0042182E;
+					};
+					84B6A85E28F95BDE0042182E = {
+						CreatedOnToolsVersion = 13.2.1;
+						TestTargetID = 84B6A83928F95BDD0042182E;
+					};
+				};
+			};
+			buildConfigurationList = 84B6A83528F95BDD0042182E /* Build configuration list for PBXProject "MYWordList" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 84B6A83128F95BDD0042182E;
+			productRefGroup = 84B6A83B28F95BDD0042182E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84B6A83928F95BDD0042182E /* MYWordList */,
+				84B6A85428F95BDE0042182E /* MYWordListTests */,
+				84B6A85E28F95BDE0042182E /* MYWordListUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		84B6A83828F95BDD0042182E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84B6A8A628F96FF70042182E /* 2018words.plist in Resources */,
+				84B6A8A028F96FF70042182E /* 2019words.plist in Resources */,
+				84B6A84D28F95BDE0042182E /* LaunchScreen.storyboard in Resources */,
+				84B6A8A328F96FF70042182E /* 2017words.plist in Resources */,
+				84B6A88C28F96BEC0042182E /* MYYearsViewController.xib in Resources */,
+				84B6A84A28F95BDE0042182E /* Assets.xcassets in Resources */,
+				84B6A8A228F96FF70042182E /* 2020words.plist in Resources */,
+				84B6A8A528F96FF70042182E /* 2015words.plist in Resources */,
+				84B6A87728F95DB70042182E /* MYWholeWordsViewController.xib in Resources */,
+				84B6A89C28F96FF70042182E /* 2022words.plist in Resources */,
+				84B6A8A128F96FF70042182E /* 2013words.plist in Resources */,
+				84B6A89E28F96FF70042182E /* 2012words.plist in Resources */,
+				84B6A87A28F95E340042182E /* 2011words.plist in Resources */,
+				84B6A84828F95BDD0042182E /* Main.storyboard in Resources */,
+				84B6A89028F96CDB0042182E /* example.plist in Resources */,
+				84B6A88228F960B90042182E /* MYWordListTableViewCell.xib in Resources */,
+				84B6A89D28F96FF70042182E /* 2021words.plist in Resources */,
+				84B6A8A428F96FF70042182E /* 2016words.plist in Resources */,
+				84B6A89F28F96FF70042182E /* 2014words.plist in Resources */,
+				8494927C28FD2F9600F40405 /* MYTrstViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84B6A85328F95BDE0042182E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84B6A85D28F95BDE0042182E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		84B6A83628F95BDD0042182E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84B6A84528F95BDD0042182E /* ViewController.m in Sources */,
+				84B6A83F28F95BDD0042182E /* AppDelegate.m in Sources */,
+				84B6A85028F95BDE0042182E /* main.m in Sources */,
+				84B6A88B28F96BEC0042182E /* MYYearsViewController.m in Sources */,
+				84B6A84228F95BDD0042182E /* SceneDelegate.m in Sources */,
+				84B6A88628F961310042182E /* MyWordsModel.m in Sources */,
+				8494927B28FD2F9600F40405 /* MYTrstViewController.m in Sources */,
+				84B6A87628F95DB70042182E /* MYWholeWordsViewController.m in Sources */,
+				84B6A88128F960B90042182E /* MYWordListTableViewCell.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84B6A85128F95BDE0042182E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84B6A85A28F95BDE0042182E /* MYWordListTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		84B6A85B28F95BDE0042182E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84B6A86628F95BDE0042182E /* MYWordListUITestsLaunchTests.m in Sources */,
+				84B6A86428F95BDE0042182E /* MYWordListUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		84B6A85728F95BDE0042182E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 84B6A83928F95BDD0042182E /* MYWordList */;
+			targetProxy = 84B6A85628F95BDE0042182E /* PBXContainerItemProxy */;
+		};
+		84B6A86128F95BDE0042182E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 84B6A83928F95BDD0042182E /* MYWordList */;
+			targetProxy = 84B6A86028F95BDE0042182E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		84B6A84628F95BDD0042182E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84B6A84728F95BDD0042182E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		84B6A84B28F95BDE0042182E /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84B6A84C28F95BDE0042182E /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		84B6A86728F95BDE0042182E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		84B6A86828F95BDE0042182E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		84B6A86A28F95BDE0042182E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DHR8ACT4J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MYWordList/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "英语二真题";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.baidou.MYWordList;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		84B6A86B28F95BDE0042182E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DHR8ACT4J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MYWordList/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "英语二真题";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.baidou.MYWordList;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		84B6A86D28F95BDE0042182E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DHR8ACT4J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.baidou.MYWordListTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MYWordList.app/MYWordList";
+			};
+			name = Debug;
+		};
+		84B6A86E28F95BDE0042182E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DHR8ACT4J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.baidou.MYWordListTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MYWordList.app/MYWordList";
+			};
+			name = Release;
+		};
+		84B6A87028F95BDE0042182E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DHR8ACT4J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.baidou.MYWordListUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MYWordList;
+			};
+			name = Debug;
+		};
+		84B6A87128F95BDE0042182E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DHR8ACT4J8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.baidou.MYWordListUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MYWordList;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		84B6A83528F95BDD0042182E /* Build configuration list for PBXProject "MYWordList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84B6A86728F95BDE0042182E /* Debug */,
+				84B6A86828F95BDE0042182E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84B6A86928F95BDE0042182E /* Build configuration list for PBXNativeTarget "MYWordList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84B6A86A28F95BDE0042182E /* Debug */,
+				84B6A86B28F95BDE0042182E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84B6A86C28F95BDE0042182E /* Build configuration list for PBXNativeTarget "MYWordListTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84B6A86D28F95BDE0042182E /* Debug */,
+				84B6A86E28F95BDE0042182E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84B6A86F28F95BDE0042182E /* Build configuration list for PBXNativeTarget "MYWordListUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84B6A87028F95BDE0042182E /* Debug */,
+				84B6A87128F95BDE0042182E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 84B6A83228F95BDD0042182E /* Project object */;
+}
