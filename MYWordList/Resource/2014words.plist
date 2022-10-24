@@ -15,9 +15,861 @@
 	<array>
 		<dict>
 			<key>en</key>
-			<string></string>
+			<string>obese</string>
 			<key>chn</key>
+			<string>adj. 臃肿的, 虚胖的, 病态肥胖的</string>
+			<key>status</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>moderately</string>
+			<key>chn</key>
+			<string>adv. 适当地，适度地，中庸地；勉强地，一般地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>disgrace</string>
+			<key>chn</key>
+			<string>n. 耻辱；丢脸；不光彩
+
+v. 使丢脸，使蒙羞；使名誉扫地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>stereotype</string>
+			<key>chn</key>
+			<string>n. 刻板印象, 模式化观念(或形象), 老一套; 铅版
+
+v. 对…形成模式化(或类型化)的看法
+
+adj. 固定不变的, 陈规旧套的; 铅版(印刷)的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>harbor</string>
+			<key>chn</key>
+			<string>n. 港口, 港湾, 〈比喻〉避难所, 【军】坦克掩蔽场
+
+v. 停泊, 包含, 隐匿, 怀抱(恶意)</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>stimulate</string>
+			<key>chn</key>
+			<string>v. 刺激, 激励; 促使, 引起; 促进(身体或身体部位的)功能</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>banned</string>
+			<key>chn</key>
+			<string>n. 禁令；诅咒，咒骂
+
+v. 下令禁止, 查禁</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>facility</string>
+			<key>chn</key>
+			<string>n. 设备，设施； 附加服务，附加功能；天赋；娴熟，灵巧</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>instituted</string>
+			<key>chn</key>
+			<string>n. （教育、专业等）机构；研究所；学院
+
+v. 建立, 实行, 开始</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>campaign</string>
+			<key>chn</key>
+			<string>n. 战役, 运动（为社会、商业或政治目的而进行的一系列有计划的活动）
+
+v. 领导运动（如为实现政治变革或赢得竞选）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>sufficient</string>
+			<key>chn</key>
+			<string>adj. 足够的，充分的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>indicator</string>
+			<key>chn</key>
+			<string>n. 指示器, 标志, 指针, 迹象</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>in terms of</string>
+			<key>chn</key>
+			<string>phrase. 根据,按照;用…的思想方法;在…方面,从…方面(说来)
+
+phrase. 用…的话,用…的字眼(或措辞)</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>in case of</string>
+			<key>chn</key>
+			<string>phrase. 假使,如果发生…
+
+phrase. 防备</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>determine</string>
+			<key>chn</key>
+			<string>v. （使）下决心，（使）做出决定；确定，查明</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>conservative</string>
+			<key>chn</key>
+			<string>adj. 保守的，守旧的
+
+n. 保守派（党）；保守的人</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tendency</string>
+			<key>chn</key>
+			<string>n. 趋势，倾向；习惯</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>imitate</string>
+			<key>chn</key>
+			<string>v. 模仿, 仿效, 模仿（某人的讲话、举止）, 作滑稽模仿</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>monitored</string>
+			<key>chn</key>
+			<string>v. 监控, 监视, 监听, 检查
+
+n. 班长, 监测仪, 屏幕, 显示屏</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>despise</string>
+			<key>chn</key>
+			<string>v. 鄙视, 蔑视, 看不起</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>grounded</string>
+			<key>chn</key>
+			<string>adj. （对生活）持有理智和现实态度的
+
+v. “ground”的过去分词和过去式</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>lottery</string>
+			<key>chn</key>
+			<string>n. （用发行彩票为政府、慈善机构等集资的）抽彩给奖法, 碰运气的事</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>jackpot</string>
+			<key>chn</key>
+			<string>n. 最高奖</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>fulfilment</string>
+			<key>chn</key>
+			<string>n. 实现, 履行, 完成, 满足</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>academic</string>
+			<key>chn</key>
+			<string>adj. 学术的; 普通文化课的; 教学的, 教务的; 学校的; 学院的; 大学的; 纯理论的
+
+n. 高等院校教师, 高校科研人员; 学者; 学会会员</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>counterintuitive</string>
+			<key>chn</key>
+			<string>adj. 违反直觉的；反常的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>fantasies</string>
+			<key>chn</key>
+			<string>n. 幻想, 想象, 想象产物, 幻想作品
+
+v. 幻想, 梦想, 想像, 对…进行幻想
+
+adj. 虚幻的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>extravagant</string>
+			<key>chn</key>
+			<string>adj. 奢侈的；铺张浪费的；过于昂贵的；不切实际的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>regret</string>
+			<key>chn</key>
+			<string>v. 懊悔, 感到遗憾, 惋惜, 有礼貌地或正式地表示抱歉、痛惜或悲伤
+
+n. 遗憾, 懊悔, 痛惜, 失望</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>creep</string>
+			<key>chn</key>
+			<string>v. 悄悄地缓慢行进, 蹑手蹑脚地移动; 爬行, 匍匐; 逐渐发生, 不知不觉地出现; [植物]攀缘, 蔓生; [雾、云等]弥漫; 卑躬屈膝, 巴结奉承
+
+n. 讨厌鬼; 讨好卖乖的人, 谄媚奉承的人; 马屁精
+
+abbr. (=Committee for the Reelection of the President)(美国)支持总统连任委员会</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>wage</string>
+			<key>chn</key>
+			<string>n. （通常指按周领的）工资
+
+v. 发动</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>slave</string>
+			<key>chn</key>
+			<string>n. 奴隶；完全受…控制的人
+
+v. 拼命工作，苦干</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>buck</string>
+			<key>chn</key>
+			<string>n. 雄鹿, （一）美元, （一）澳元, （一）新西兰元
+
+v. 弓背四蹄跳起；猛然震荡；反抗，抵制（似乎难以忍受或不可避免的事物）
+
+adv. 〈方〉完全
+
+adj. 雄的, 〈美俚〉男的, 〈美俚〉某一军衔等级中最低一级的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>consume</string>
+			<key>chn</key>
+			<string>v. 消耗, 耗费; 吃; 喝; 购买; 消费; 使全神贯注; 充满; （火）吞噬，烧毁</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>sparingly</string>
+			<key>chn</key>
+			<string>adv. 很少, 细嚼慢咽地, 节俭地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>trick</string>
+			<key>chn</key>
+			<string>n. 技巧, 诡计, 诀窍, 把戏
+
+v. 欺骗, 欺诈
+
+adj. 意在欺骗的, 容易使人上当的, 虚弱有毛病的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pork</string>
+			<key>chn</key>
+			<string>n. 猪肉</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>obsession</string>
+			<key>chn</key>
+			<string>n. 痴迷, 沉迷, 困扰, 着魔, 使人痴迷的人（或物）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>privilege</string>
+			<key>chn</key>
+			<string>n. 特权，优惠；荣幸
+
+v. 给特权</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>scarcity</string>
+			<key>chn</key>
+			<string>n. 缺乏，不足，缺少</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>enhance</string>
+			<key>chn</key>
+			<string>v. 提高；增强；增进</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>sympathetic</string>
+			<key>chn</key>
+			<string>adj. 同情的, 有同情心的, 表示同情的, 赞同的
+
+n. 【解】交感神经系, (对催眠术等)易感受的人</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mention</string>
+			<key>chn</key>
+			<string>v. 提到, 写到, 说到
+
+n. 提及, 说起, 写上一笔</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>irrational</string>
+			<key>chn</key>
+			<string>adj. 不合逻辑的， 没有道理的，不理性的
+
+n. 无理数, 无理性的生物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>rarity</string>
+			<key>chn</key>
+			<string>n. 罕见, 稀有, 珍品, 稀有物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prove</string>
+			<key>chn</key>
+			<string>v. 证明, 证实, 展现, 显示（自己）是
+
+linkv. 后来被发现是, 最终显现为</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>obtain</string>
+			<key>chn</key>
+			<string>v. 得到, 获得; 如愿以偿; 通用, 流行; 存在</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>satisfaction</string>
+			<key>chn</key>
+			<string>n. 满意；满足；妥善处理</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>empirical</string>
+			<key>chn</key>
+			<string>adj. 以经验（或实验）为依据的；经验主义的；来自经验（或观察）的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>strategy</string>
+			<key>chn</key>
+			<string>n. 策略, 战略, 策划, 战略部署</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>amass</string>
+			<key>chn</key>
+			<string>v. 积累，大量收集（尤指钱或信息）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>ocean</string>
+			<key>chn</key>
+			<string>n. 海洋, 大海, （四大洋之一的）洋</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>statistical</string>
+			<key>chn</key>
+			<string>adj. （statistic的变体）统计的, 统计学的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>defensive</string>
+			<key>chn</key>
+			<string>adj. 防御的, 保护的, 保卫的, 戒备的
+
+n. 辩护, 守势</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>esteem</string>
+			<key>chn</key>
+			<string>n. 尊重, 敬重, 好评
+
+v. 尊重, 敬重, 认为, 把…看作</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>intuitively</string>
+			<key>chn</key>
+			<string>adv. 凭直觉地；直观地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>flattering</string>
+			<key>chn</key>
+			<string>adj. 使人显得更漂亮的, 奉承的, 阿谀的, 讨好的
+
+v. “flatter”的现在分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>delusion</string>
+			<key>chn</key>
+			<string>n. 错觉, 妄想, 谬见, 自欺</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>cream</string>
+			<key>chn</key>
+			<string>n. 奶油, 精华, 奶油色, 精英
+
+adj. 奶油色的, 淡黄色的, 米色的
+
+v. 把…搅成糊状（或奶油状）混合物, 彻底打败, 狠揍</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>portray</string>
+			<key>chn</key>
+			<string>v. 描绘, 描写, 描画, 将…描写成</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>conscious</string>
+			<key>chn</key>
+			<string>adj. 注意到的，意识到的；清醒的，有知觉的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>underestimate</string>
+			<key>chn</key>
+			<string>v. 低估；不够重视；轻视
+
+n. 低估；轻视</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>viscerally</string>
+			<key>chn</key>
+			<string>adv. 发自肺腑地，发自内心地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>instinctively</string>
+			<key>chn</key>
+			<string>adv. 本能地，无意识地，自发地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>occasionally</string>
+			<key>chn</key>
+			<string>adv. 偶尔地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pursuit</string>
+			<key>chn</key>
+			<string>n. 追求；追赶
+
+n. 追踪，追捕
+
+n. 爱好；消遣；事业</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>versus</string>
+			<key>chn</key>
+			<string>prep. 对；与…相对；对抗</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>fragile</string>
+			<key>chn</key>
+			<string>adj. 易碎的; 脆的; 易损的; 虚弱的; 脆弱的; 纤巧的, 精细的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bust</string>
+			<key>chn</key>
+			<string>v. 打破, 摔碎, 突击搜查（或搜捕）, 使降级, 降低军阶
+
+n. （石或金属的）半身像, （尤指衣服或尺寸）女子的胸部
+
+adj. 破碎的 , 毁坏的, 破产的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>outmoded</string>
+			<key>chn</key>
+			<string>adj. 过时的, 已无用的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>insatiable</string>
+			<key>chn</key>
+			<string>adj. 不知足的, 无法满足的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>appetite</string>
+			<key>chn</key>
+			<string>n. 胃口, 食欲; 欲望; 爱好</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>via</string>
+			<key>chn</key>
+			<string>prep. 通过, 经由
+
+n. 道路, 【医】管道</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>scary</string>
+			<key>chn</key>
+			<string>adj. 恐怖的, 吓人的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tightly</string>
+			<key>chn</key>
+			<string>adv. 紧紧地，牢牢地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>giant</string>
+			<key>chn</key>
+			<string>adj. 巨大的, 特大的, 伟大的
+
+n. 巨兽;（残酷而愚蠢的）巨人；大公司；强大的组织；伟人；卓越人物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>formula</string>
+			<key>chn</key>
+			<string>n. 公式; 方程式; 准则, 法则; 方案; 配方; 配方奶; 惯用语句</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>augment</string>
+			<key>chn</key>
+			<string>v. 增加, 增强, 扩大, 充填
+
+n. 增加</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>institution</string>
+			<key>chn</key>
+			<string>n. (以宗教、教育等为目的的)协会, 机构; 制度, 惯例, 习俗; 大金融公司, 大金融机构; 建立; 制定</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>ease</string>
+			<key>chn</key>
+			<string>n. 容易，方便；舒适，安逸
+
+v. 减轻，缓和</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>provoke</string>
+			<key>chn</key>
+			<string>vt. 激怒，挑衅；鼓动，激励，刺激；引起；驱使</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>broadband</string>
+			<key>chn</key>
+			<string>n. 宽带
+
+adj. 宽带的, 宽频的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>seldom</string>
+			<key>chn</key>
+			<string>adv. 不常；很少；难得</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>shoulder</string>
+			<key>chn</key>
+			<string>n. 肩膀；（衣服）肩部；路肩
+
+v. 扛，挑；肩负，承担；用肩推挤</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>shove</string>
+			<key>chn</key>
+			<string>n. 猛推，推挤
+
+v. 推挤，推撞；乱扔，乱丢</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inevitable</string>
+			<key>chn</key>
+			<string>adj. 不可避免的，必然（发生）的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>desperate</string>
+			<key>chn</key>
+			<string>adj. 绝望的；不顾一切的，拼命的；极度渴望的，极其需要…的；（局势）危急的，严峻的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>simply</string>
+			<key>chn</key>
+			<string>adv. 只是, 简单地, 简直, 不过</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>rental</string>
+			<key>chn</key>
+			<string>n. 租赁, 租金, 出租, 招租</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>grant</string>
+			<key>chn</key>
+			<string>v. 同意; 准予; 授予; 承认
+
+n. （组织，尤指政府，为特定目的给予的）拨款；给予，授予；合法转让</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mileage</string>
+			<key>chn</key>
+			<string>n. 好处, 英里里程, （车辆使用某定量燃料可行驶的）英里数, 利益</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>perpetually</string>
+			<key>chn</key>
+			<string>adv. 永恒地，持久地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>exactly</string>
+			<key>chn</key>
+			<string>adv. 确切地, 准确地, 精确地; 恰好地; 究竟, 到底; (答语) 完全正确</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>lecture</string>
+			<key>chn</key>
+			<string>n. 演讲, 训斥
+
+v. 讲课, 训斥</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>perspective</string>
+			<key>chn</key>
+			<string>n. 视角，观点，看法；透视画法；透视效果；客观判断力，权衡轻重的能力
+
+adj. 透视画的</string>
 			<key>status</key>
 			<string></string>
 		</dict>
