@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>example</key>
+	<dict>
+		<key>en</key>
+		<string></string>
+		<key>chn</key>
+		<string></string>
+		<key>status</key>
+		<string></string>
+	</dict>
+	<key>list</key>
+	<array>
+		<dict>
+			<key>en</key>
+			<string>ascribe</string>
+			<key>chn</key>
+			<string>v. 归因于，归咎于</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>benevolent</string>
+			<key>chn</key>
+			<string>adj. 慈善的, 行善的, 乐善好施的, 用于慈善机构名称</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>broker</string>
+			<key>chn</key>
+			<string>n. 经纪人, 掮客
+
+v. 协商（协议的细节，尤指在两国间）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>buffer</string>
+			<key>chn</key>
+			<string>n. 缓冲器, 缓冲物, 起缓冲作用的人, 缓存区
+
+v. 缓存, 保护, 减缓（伤害）, 使不受…的侵害</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>choir</string>
+			<key>chn</key>
+			<string>n. (教堂,学校的)唱诗班, 唱诗席</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>chunk</string>
+			<key>chn</key>
+			<string>n. 大块, 厚块, 厚片, 相当大的量
+
+v. 放弃, 【机】用卡盘夹紧, 〈口语〉抛出，逐出，抛弃</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>custody</string>
+			<key>chn</key>
+			<string>n. 羁押, 保管, 保护, 【法】抚养权</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>decree</string>
+			<key>chn</key>
+			<string>n. 法令，政令；（法院的）裁定，判决
+
+v. 裁定，判决；颁布</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>discharge</string>
+			<key>chn</key>
+			<string>v. 允许离开（医院、军队）；开除，解雇；排出，放出（电量）；开枪，开炮
+
+n. 准许离开；免职；排放（物）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>eradicate</string>
+			<key>chn</key>
+			<string>v. 根除</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>hybrid</string>
+			<key>chn</key>
+			<string>n. 杂交种, 杂种动物, 杂交植物, （不同事物的）混合物
+
+adj. 杂种的, 混合的, 混合语的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>landscape</string>
+			<key>chn</key>
+			<string>n. 风景，景色；乡村风景画；（文件的）横向打印格式
+
+v. 对…做景观美化；给…做园林美化</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pottery</string>
+			<key>chn</key>
+			<string>n. 陶器（尤指手工制的）, 陶土, 制陶手艺, 制陶技艺</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>predator</string>
+			<key>chn</key>
+			<string>n. 捕食者, 掠夺者, 捕食性动物, 弱肉强食的人（或机构）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>strand</string>
+			<key>chn</key>
+			<string>n. (线、绳等的)股、缕；海滨，海滩；湖滨；（观点、计划、故事等的）部分
+
+v. 使滞留, 使搁浅</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

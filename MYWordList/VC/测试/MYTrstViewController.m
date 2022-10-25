@@ -24,6 +24,8 @@
 @property (nonatomic,strong) IBOutlet UIButton * cancelButton;
 @property (nonatomic,strong) IBOutlet UILabel * countLabel;
 @property (nonatomic,strong) IBOutlet UIButton * errorButton;
+@property (nonatomic,strong) IBOutlet UIProgressView * progressView;
+
 @property (nonatomic,strong) MyWordsModel * model;
 
 @end
@@ -34,6 +36,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     [self loadData];
+    [self createView];
 }
 
 #pragma mark  - getters
@@ -43,6 +46,18 @@
         _dataArray = [[NSMutableArray alloc]init];
     }
     return _dataArray;
+}
+
+#pragma mark - createView
+
+- (void)createView{
+    self.corfirmButton.layer.cornerRadius = self.corfirmButton.bounds.size.height / 2.0;
+    self.corfirmButton.layer.masksToBounds = YES;
+    
+    self.cancelButton.layer.cornerRadius = self.cancelButton.bounds.size.height / 2.0;
+    self.cancelButton.layer.masksToBounds = YES;
+    
+    self.progressView.progress = 0.0;
 }
 
 #pragma mark - load data
@@ -92,6 +107,8 @@
     self.errorButton.hidden = YES;
     self.corfirmButton.hidden = NO;
     [self.cancelButton setTitle:@"不认识" forState:UIControlStateNormal];
+    
+    self.progressView.progress = (float)(1.0 - (float)self.dataArray.count / (float)_total);
 }
 
 #pragma mark - actions
@@ -127,6 +144,10 @@
     MyWordsModel * model = self.model;
     [self.dataArray removeObject:model];
     [self reloadData];
+}
+
+- (IBAction)backButtonClick:(id)sender{
+    [self.navigationController popViewControllerAnimated:YES];
 }
 
 @end

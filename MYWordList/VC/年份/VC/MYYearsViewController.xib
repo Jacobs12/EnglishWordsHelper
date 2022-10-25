@@ -20,22 +20,59 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="JZU-Tk-sIW">
-                    <rect key="frame" x="0.0" y="44" width="414" height="818"/>
+                    <rect key="frame" x="0.0" y="88" width="414" height="774"/>
                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                 </tableView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bx1-mg-nOt">
+                    <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pan-Jx-cxs">
+                            <rect key="frame" x="8" y="0.0" width="44" height="44"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="2ox-ZS-5Jv"/>
+                                <constraint firstAttribute="width" constant="44" id="aiW-ck-Msj"/>
+                            </constraints>
+                            <state key="normal" title="Button"/>
+                            <buttonConfiguration key="configuration" style="plain" image="navigation_back"/>
+                            <connections>
+                                <action selector="backButtonClick:" destination="-1" eventType="touchUpInside" id="u5F-8c-3YZ"/>
+                            </connections>
+                        </button>
+                        <view alpha="0.10000000149011612" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="csy-R9-p5I">
+                            <rect key="frame" x="0.0" y="43" width="414" height="1"/>
+                            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="1" id="zIV-PY-v3q"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="Pan-Jx-cxs" firstAttribute="leading" secondItem="bx1-mg-nOt" secondAttribute="leading" constant="8" id="3rx-4e-Qtl"/>
+                        <constraint firstAttribute="height" constant="44" id="8v0-15-Ntk"/>
+                        <constraint firstAttribute="trailing" secondItem="csy-R9-p5I" secondAttribute="trailing" id="MBU-hL-Qno"/>
+                        <constraint firstItem="Pan-Jx-cxs" firstAttribute="top" secondItem="bx1-mg-nOt" secondAttribute="top" id="Qnh-nN-cJa"/>
+                        <constraint firstAttribute="bottom" secondItem="csy-R9-p5I" secondAttribute="bottom" id="Ywy-aW-YcC"/>
+                        <constraint firstItem="csy-R9-p5I" firstAttribute="leading" secondItem="bx1-mg-nOt" secondAttribute="leading" id="de5-35-22Y"/>
+                    </constraints>
+                </view>
             </subviews>
             <viewLayoutGuide key="safeArea" id="Q5M-cg-NOt"/>
             <color key="backgroundColor" systemColor="systemBackgroundColor"/>
             <constraints>
+                <constraint firstItem="JZU-Tk-sIW" firstAttribute="top" secondItem="bx1-mg-nOt" secondAttribute="bottom" id="4Bi-pG-HHy"/>
+                <constraint firstItem="bx1-mg-nOt" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="boC-rr-wzb"/>
+                <constraint firstItem="bx1-mg-nOt" firstAttribute="top" secondItem="Q5M-cg-NOt" secondAttribute="top" id="byA-hY-KO3"/>
                 <constraint firstItem="Q5M-cg-NOt" firstAttribute="bottom" secondItem="JZU-Tk-sIW" secondAttribute="bottom" id="lBe-Yk-5aH"/>
-                <constraint firstItem="JZU-Tk-sIW" firstAttribute="top" secondItem="Q5M-cg-NOt" secondAttribute="top" id="m19-Xf-rWN"/>
+                <constraint firstAttribute="trailing" secondItem="bx1-mg-nOt" secondAttribute="trailing" id="mpi-IU-YtK"/>
                 <constraint firstAttribute="trailing" secondItem="JZU-Tk-sIW" secondAttribute="trailing" id="uHz-jV-kHT"/>
                 <constraint firstItem="JZU-Tk-sIW" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="z1e-Fu-eLd"/>
             </constraints>
-            <point key="canvasLocation" x="132" y="85"/>
+            <point key="canvasLocation" x="131.8840579710145" y="84.375"/>
         </view>
     </objects>
     <resources>
+        <image name="navigation_back" width="24" height="24"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

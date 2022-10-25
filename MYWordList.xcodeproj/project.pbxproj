@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84443E2A2907DF7C0097E4D5 /* 2023新大纲words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84443E292907DF7C0097E4D5 /* 2023新大纲words.plist */; };
 		8494927B28FD2F9600F40405 /* MYTrstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8494927928FD2F9600F40405 /* MYTrstViewController.m */; };
 		8494927C28FD2F9600F40405 /* MYTrstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8494927A28FD2F9600F40405 /* MYTrstViewController.xib */; };
 		84B6A83F28F95BDD0042182E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A83E28F95BDD0042182E /* AppDelegate.m */; };
@@ -59,6 +60,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84443E292907DF7C0097E4D5 /* 2023新大纲words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "2023新大纲words.plist"; sourceTree = "<group>"; };
 		8494927828FD2F9600F40405 /* MYTrstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MYTrstViewController.h; sourceTree = "<group>"; };
 		8494927928FD2F9600F40405 /* MYTrstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYTrstViewController.m; sourceTree = "<group>"; };
 		8494927A28FD2F9600F40405 /* MYTrstViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MYTrstViewController.xib; sourceTree = "<group>"; };
@@ -222,6 +224,7 @@
 				84B6A89728F96FF60042182E /* 2020words.plist */,
 				84B6A89228F96FF60042182E /* 2021words.plist */,
 				84B6A89128F96FF60042182E /* 2022words.plist */,
+				84443E292907DF7C0097E4D5 /* 2023新大纲words.plist */,
 				84B6A88F28F96CDB0042182E /* example.plist */,
 			);
 			path = Resource;
@@ -388,6 +391,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84B6A8A628F96FF70042182E /* 2018words.plist in Resources */,
+				84443E2A2907DF7C0097E4D5 /* 2023新大纲words.plist in Resources */,
 				84B6A8A028F96FF70042182E /* 2019words.plist in Resources */,
 				84B6A84D28F95BDE0042182E /* LaunchScreen.storyboard in Resources */,
 				84B6A8A328F96FF70042182E /* 2017words.plist in Resources */,

@@ -87,4 +87,8 @@
     });
 }
 
+- (IBAction)backButtonClick:(id)sender{
+    [self.navigationController popViewControllerAnimated:YES];
+}
+
 @end

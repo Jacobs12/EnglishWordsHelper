@@ -49,6 +49,7 @@
             @{@"id":@"2020",@"title":@"2020年生僻单词"},
             @{@"id":@"2021",@"title":@"2021年生僻单词"},
             @{@"id":@"2022",@"title":@"2022年生僻单词"},
+            @{@"id":@"2023新大纲",@"title":@"2023年新大纲生僻单词"}
         ];
         [_dataArray addObjectsFromArray:array];
     }
@@ -93,6 +94,12 @@
         vc.id1 = id1;
         [self.navigationController pushViewController:vc animated:YES];
     }
+}
+
+#pragma mark - actions
+
+- (IBAction)backButtonClick:(id)sender{
+    [self.navigationController popViewControllerAnimated:YES];
 }
 
 @end

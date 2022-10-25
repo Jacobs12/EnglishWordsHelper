@@ -15,9 +15,599 @@
 	<array>
 		<dict>
 			<key>en</key>
-			<string></string>
+			<string>contemporary</string>
 			<key>chn</key>
+			<string>adj. 当代的；同时代的
+
+n. 同时代的人</string>
+			<key>status</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prospect</string>
+			<key>chn</key>
+			<string>n. 预期, 展望; 景象; (成功、得益等的)可能性, 机会; 前景, 前途
+
+v. 勘探, 勘察</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>desire</string>
+			<key>chn</key>
+			<string>n. 愿望，欲望；情欲
+
+v. 渴望
+
+adj. 渴望的，想要的，预期的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mental</string>
+			<key>chn</key>
+			<string>adj. 精神的，心理的；脑力的
+
+n. 疯子</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>innocent</string>
+			<key>chn</key>
+			<string>adj. 清白的；无辜的； 天真的，不谙世故的；无恶意的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>acquaintance</string>
+			<key>chn</key>
+			<string>n. 熟人，相识之人, 认识的人, （与某人）认识</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>perceive</string>
+			<key>chn</key>
+			<string>v. 认为，视为；察觉，感觉，认知</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>Chicago</string>
+			<key>chn</key>
+			<string>n. 芝加哥</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>thrive</string>
+			<key>chn</key>
+			<string>v. 兴旺发达, 繁荣; 旺盛; 茁壮生长, 茂盛生长</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>plugged</string>
+			<key>chn</key>
+			<string>n. 插头；塞子
+
+v. 把……塞住；堵塞；填塞</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>misinterpreted</string>
+			<key>chn</key>
+			<string>v. 误解, 误释</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>unconventional</string>
+			<key>chn</key>
+			<string>adj. 不因循守旧的, 不因袭的, 新奇的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>unfamiliar</string>
+			<key>chn</key>
+			<string>adj. 陌生的, 不熟悉的, 不认识的, 无…的知识（或经验）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bend</string>
+			<key>chn</key>
+			<string>v. （使）弯曲；歪曲；弯腰，俯身
+
+n. 弯曲（物）；弯道</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>decay</string>
+			<key>chn</key>
+			<string>n. 腐烂；衰退
+
+v. 衰败；腐败</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>negotiation</string>
+			<key>chn</key>
+			<string>n. 谈判, 协商, 磋商</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>reveal</string>
+			<key>chn</key>
+			<string>v. 显示；表明；透露；揭露；展示；使显露</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>voyage</string>
+			<key>chn</key>
+			<string>n. 航行, （尤指）航海
+
+v. 航行, 远行, （尤指）远航</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>In consequence</string>
+			<key>chn</key>
+			<string>phrase. 因此，结果</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>contrary</string>
+			<key>chn</key>
+			<string>adj. 相反的，截然不同的
+
+n. 相反</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>cortisol</string>
+			<key>chn</key>
+			<string>n. 【生化】皮质醇, 【药】氢可的松</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>contradict</string>
+			<key>chn</key>
+			<string>v. 反驳；与…矛盾</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bargain</string>
+			<key>chn</key>
+			<string>n. 物美价廉的东西; 交易, 买卖; 协定, 协议
+
+v. 讨价还价; 讲条件, 谈判</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pure</string>
+			<key>chn</key>
+			<string>adj. 纯的, 纯净的, 纯粹的, 干净的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>rare</string>
+			<key>chn</key>
+			<string>adj. (事情、境况等)稀有的, 罕见的; (东西)珍贵的, 珍奇的; (肉)煎得嫩的; (蛋)半熟的, 溏心的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>clinically</string>
+			<key>chn</key>
+			<string>adv. 临床地；冷静高效地；实用地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>methodically</string>
+			<key>chn</key>
+			<string>adv. 有方法地，有条理地，有条不紊地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inadequate</string>
+			<key>chn</key>
+			<string>adj. 不充分的，不足的；不够好的；缺乏信心的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>seldom</string>
+			<key>chn</key>
+			<string>adv. 不常；很少；难得</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>cozier</string>
+			<key>chn</key>
+			<string>adj. （尤指因地方小或封闭而）温暖舒适的, 亲密无间的, 密切的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dropout</string>
+			<key>chn</key>
+			<string>n. 辍学者, 退学者, 拒绝传统社会的人</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>recruit</string>
+			<key>chn</key>
+			<string>v. 吸收（新成员）, 征募（新兵）, 动员…（提供帮助）, （通过招募）组成
+
+n. 新兵, 新警员, 新成员</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>potential</string>
+			<key>chn</key>
+			<string>adj. 潜在的; 可能的
+
+n. 潜力, 潜能; 潜在性, 可能性; [物]电势</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>modest</string>
+			<key>chn</key>
+			<string>adj. 谦虚的, 谦逊的; 适度的, 适中的; 朴素的; 不太大的, 不显著的, 较小的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>gap</string>
+			<key>chn</key>
+			<string>n. 差距，隔阂；缺口，豁口，裂口
+
+n. [企业名]Gap（快时尚品牌之一）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>narrowed</string>
+			<key>chn</key>
+			<string>adj. 狭窄的，窄小的；勉强的，刚刚好的；（数目或种类）有限的
+
+v. 使窄小, 变窄, 缩小
+
+n. 峡谷, (场所,物品等的)狭窄部分</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>acknowledge</string>
+			<key>chn</key>
+			<string>v. 承认；致意；公开感谢</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>emotional</string>
+			<key>chn</key>
+			<string>adj. 感情的, 情感的, 情绪的, 激起感情的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>spinning</string>
+			<key>chn</key>
+			<string>adj. 纺织品的
+
+n. 纺织</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>parachuted</string>
+			<key>chn</key>
+			<string>n. 降落伞
+
+v. 跳伞；伞降，空投</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>passion</string>
+			<key>chn</key>
+			<string>n. 激情，热情；强烈的爱；酷爱</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>vocabulary</string>
+			<key>chn</key>
+			<string>n. 词汇，词汇量；词汇表</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>coincidence</string>
+			<key>chn</key>
+			<string>n. 一致, （令人吃惊的）巧合, 同时存在, 并存</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>explicitly</string>
+			<key>chn</key>
+			<string>adv. 明确地，清楚明白地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>infuse</string>
+			<key>chn</key>
+			<string>v. 泡, 沏, 使具有, 全面影响, 灌输, 鼓舞</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>allegiance</string>
+			<key>chn</key>
+			<string>n. 效忠</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>terminology</string>
+			<key>chn</key>
+			<string>n. 术语</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>religious</string>
+			<key>chn</key>
+			<string>adj. 宗教的；虔诚的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>purpose</string>
+			<key>chn</key>
+			<string>n. 目的, 用途, 目标, 意图, 重要意义, 宗旨
+
+v. 想, 决心(做)</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>loud</string>
+			<key>chn</key>
+			<string>adj. 响亮的，洪亮的；大声的；说话太大声的；喧闹的，吵闹的；（衣服）俗艳花哨的
+
+adv. 大声地, 响亮地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>buzzword</string>
+			<key>chn</key>
+			<string>n. 流行词, 行话, 时髦词汇, 漂亮口号</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>fundamentally</string>
+			<key>chn</key>
+			<string>adv. 从根本上, 基础地, 重要地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>revive</string>
+			<key>chn</key>
+			<string>v. （使）苏醒，复活；重新使用；重新上演</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>appeal to</string>
+			<key>chn</key>
+			<string>phrase. 求助于，诉诸；对……有吸引力；上诉</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>workaholics</string>
+			<key>chn</key>
+			<string>n. 工作狂, 工作迷, 醉心于工作的人</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>praises</string>
+			<key>chn</key>
+			<string>v. 赞扬, 表扬, 称赞, 颂扬
+
+n. 赞美, 赞扬, 称赞, 赞颂</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pace</string>
+			<key>chn</key>
+			<string>n. （移动的）步速；速度，节奏；一步，一步之距
+
+v. 为…定速度；来回踱步</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>distinction</string>
+			<key>chn</key>
+			<string>n. 区别，差别；卓越，杰出</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>reference</string>
+			<key>chn</key>
+			<string>n. 参考; 查阅; 引文; 参考章节; 参考书; 提到, 论及; 推荐人; 推荐信; 关联
+
+v. 附参考资料</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>acquire</string>
+			<key>chn</key>
+			<string>v. 获得, （通过努力、能力、行为表现）获得, 购得, 得到</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>decline</string>
+			<key>chn</key>
+			<string>v. 减少，下降；衰退；谢绝
+
+n. 减少，下落，衰退</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>barriers</string>
+			<key>chn</key>
+			<string>n. 屏障, 障碍, 障碍物, 关口
+
+v. 用栅围住</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>present</string>
+			<key>chn</key>
+			<string>adj. 目前的, 现在的; 出席的, 在场的; 存在的
+
+v. 颁发, 授予; 赠送; 提出; 呈递; 呈现; 表现; 介绍
+
+n. 目前, 现在; 礼物, 礼品</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tough</string>
+			<key>chn</key>
+			<string>adj. 坚韧的; 牢固的; 不嫩的, 老的; 强壮的; 坚强的; 严格的, 强硬的; 困难的, 艰苦的
+
+v. 〈美俚〉忍耐困难
+
+n. 恶棍; 暴徒; 粗暴的人</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dearest</string>
+			<key>chn</key>
+			<string>n. （称呼所爱的人）亲爱的
+
+adj. （给所爱的人写信时用）最亲爱的, 深切的, 由衷的
+
+adv. “dear”的最高级</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>incapable</string>
+			<key>chn</key>
+			<string>adj. 无能力的，不能胜任的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>concentrate</string>
+			<key>chn</key>
+			<string>v. 专心于，全神贯注；集中，聚集</string>
 			<key>status</key>
 			<string></string>
 		</dict>
