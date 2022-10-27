@@ -23,6 +23,11 @@
     [self createView];
 }
 
+- (void)viewWillAppear:(BOOL)animated{
+    [super viewWillAppear:animated];
+    [self.tableView reloadData];
+}
+
 #pragma mark - createView
 
 - (void)createView{
@@ -75,6 +80,13 @@
     NSDictionary * dict = self.dataArray[indexPath.row];
     NSString * string = dict[@"title"];
     cell.textLabel.text = string;
+    NSString * key = [NSString stringWithFormat:@"%@",dict[@"id"]];
+    NSString * date = [[NSUserDefaults standardUserDefaults] objectForKey:key];
+    if(date != nil && date.length > 0 && self.type == MyListTypeTest){
+        cell.textLabel.text = [NSString stringWithFormat:@"%@         %@",string,date];
+    }else{
+        
+    }
     return cell;
 }
 

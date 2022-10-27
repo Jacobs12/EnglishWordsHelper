@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		84443E2A2907DF7C0097E4D5 /* 2023新大纲words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84443E292907DF7C0097E4D5 /* 2023新大纲words.plist */; };
+		845ED038290A91B7006C1869 /* EHCompositionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 845ED036290A91B7006C1869 /* EHCompositionViewController.m */; };
+		845ED039290A91B7006C1869 /* EHCompositionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 845ED037290A91B7006C1869 /* EHCompositionViewController.xib */; };
 		8494927B28FD2F9600F40405 /* MYTrstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8494927928FD2F9600F40405 /* MYTrstViewController.m */; };
 		8494927C28FD2F9600F40405 /* MYTrstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8494927A28FD2F9600F40405 /* MYTrstViewController.xib */; };
 		84B6A83F28F95BDD0042182E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A83E28F95BDD0042182E /* AppDelegate.m */; };
@@ -61,6 +63,9 @@
 
 /* Begin PBXFileReference section */
 		84443E292907DF7C0097E4D5 /* 2023新大纲words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "2023新大纲words.plist"; sourceTree = "<group>"; };
+		845ED035290A91B7006C1869 /* EHCompositionViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EHCompositionViewController.h; sourceTree = "<group>"; };
+		845ED036290A91B7006C1869 /* EHCompositionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EHCompositionViewController.m; sourceTree = "<group>"; };
+		845ED037290A91B7006C1869 /* EHCompositionViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EHCompositionViewController.xib; sourceTree = "<group>"; };
 		8494927828FD2F9600F40405 /* MYTrstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MYTrstViewController.h; sourceTree = "<group>"; };
 		8494927928FD2F9600F40405 /* MYTrstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYTrstViewController.m; sourceTree = "<group>"; };
 		8494927A28FD2F9600F40405 /* MYTrstViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MYTrstViewController.xib; sourceTree = "<group>"; };
@@ -132,6 +137,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		845ED033290A9186006C1869 /* 作文 */ = {
+			isa = PBXGroup;
+			children = (
+				845ED034290A918E006C1869 /* VC */,
+			);
+			path = "作文";
+			sourceTree = "<group>";
+		};
+		845ED034290A918E006C1869 /* VC */ = {
+			isa = PBXGroup;
+			children = (
+				845ED035290A91B7006C1869 /* EHCompositionViewController.h */,
+				845ED036290A91B7006C1869 /* EHCompositionViewController.m */,
+				845ED037290A91B7006C1869 /* EHCompositionViewController.xib */,
+			);
+			path = VC;
+			sourceTree = "<group>";
+		};
 		8494927728FD2F7600F40405 /* 测试 */ = {
 			isa = PBXGroup;
 			children = (
@@ -202,6 +225,7 @@
 		84B6A87228F95BE60042182E /* VC */ = {
 			isa = PBXGroup;
 			children = (
+				845ED033290A9186006C1869 /* 作文 */,
 				8494927728FD2F7600F40405 /* 测试 */,
 				84B6A88728F96BDC0042182E /* 年份 */,
 				84B6A87B28F9606F0042182E /* 所有单词页面 */,
@@ -406,6 +430,7 @@
 				84B6A87A28F95E340042182E /* 2011words.plist in Resources */,
 				84B6A84828F95BDD0042182E /* Main.storyboard in Resources */,
 				84B6A89028F96CDB0042182E /* example.plist in Resources */,
+				845ED039290A91B7006C1869 /* EHCompositionViewController.xib in Resources */,
 				84B6A88228F960B90042182E /* MYWordListTableViewCell.xib in Resources */,
 				84B6A89D28F96FF70042182E /* 2021words.plist in Resources */,
 				84B6A8A428F96FF70042182E /* 2016words.plist in Resources */,
@@ -443,6 +468,7 @@
 				84B6A88628F961310042182E /* MyWordsModel.m in Sources */,
 				8494927B28FD2F9600F40405 /* MYTrstViewController.m in Sources */,
 				84B6A87628F95DB70042182E /* MYWholeWordsViewController.m in Sources */,
+				845ED038290A91B7006C1869 /* EHCompositionViewController.m in Sources */,
 				84B6A88128F960B90042182E /* MYWordListTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

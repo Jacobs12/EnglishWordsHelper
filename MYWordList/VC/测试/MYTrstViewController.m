@@ -87,6 +87,13 @@
         self.subtitleLabel.hidden = YES;
         self.titleLabel.text = @"本次测试已完成";
         self.countLabel.text = [NSString stringWithFormat:@"共：%ld      剩：%ld",_total,self.dataArray.count];
+        
+        NSDateFormatter * df = [[NSDateFormatter alloc]init];
+        df.dateFormat = @"yyyy-MM-dd";
+        NSString * date = [df stringFromDate:[NSDate date]];
+        NSString * key = [NSString stringWithFormat:@"%@",self.id1];
+        
+        [[NSUserDefaults standardUserDefaults] setObject:date forKey:key];
         return;
     }
     NSInteger index = random() % self.dataArray.count;

@@ -66,12 +66,29 @@
                                                     <action selector="testButtonClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zgJ-YZ-Jfv"/>
                                                 </connections>
                                             </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2oW-v4-l1c">
+                                                <rect key="frame" x="20" y="160" width="374" height="50"/>
+                                                <color key="backgroundColor" red="0.0" green="0.56031829119999998" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="50" id="vtC-0N-JZN"/>
+                                                </constraints>
+                                                <state key="normal" title="Button"/>
+                                                <buttonConfiguration key="configuration" style="plain" title="作文">
+                                                    <color key="baseForegroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                                </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="testButtonClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yDl-8R-4xs"/>
+                                                </connections>
+                                            </button>
                                         </subviews>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
+                                            <constraint firstItem="2oW-v4-l1c" firstAttribute="leading" secondItem="u3k-7u-esO" secondAttribute="leading" constant="20" id="8wC-uN-A9O"/>
                                             <constraint firstAttribute="height" constant="1000" id="9Jn-Tk-bis"/>
+                                            <constraint firstAttribute="trailing" secondItem="2oW-v4-l1c" secondAttribute="trailing" constant="20" id="BXc-MW-IS8"/>
                                             <constraint firstItem="NNK-td-acE" firstAttribute="leading" secondItem="u3k-7u-esO" secondAttribute="leading" constant="20" id="LCP-Lu-ts7"/>
                                             <constraint firstItem="NNK-td-acE" firstAttribute="top" secondItem="W7t-8N-au8" secondAttribute="bottom" constant="20" id="SP1-As-AAi"/>
+                                            <constraint firstItem="2oW-v4-l1c" firstAttribute="top" secondItem="NNK-td-acE" secondAttribute="bottom" constant="20" id="eWn-t6-Tb9"/>
                                             <constraint firstAttribute="trailing" secondItem="W7t-8N-au8" secondAttribute="trailing" constant="20" id="fV5-dG-Xph"/>
                                             <constraint firstItem="W7t-8N-au8" firstAttribute="top" secondItem="u3k-7u-esO" secondAttribute="top" constant="20" id="g4U-DQ-81m"/>
                                             <constraint firstAttribute="trailing" secondItem="NNK-td-acE" secondAttribute="trailing" constant="20" id="gUS-KS-fzn"/>

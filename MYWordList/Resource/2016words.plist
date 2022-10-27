@@ -15,9 +15,465 @@
 	<array>
 		<dict>
 			<key>en</key>
-			<string></string>
+			<string>inclination</string>
 			<key>chn</key>
+			<string>n. 倾向，意向；趋向，趋势；倾斜度；轻微的向下动作</string>
+			<key>status</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>wages</string>
+			<key>chn</key>
+			<string>n. （通常指按周领的）工资
+
+v. 发动</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>presence</string>
+			<key>chn</key>
+			<string>n. 存在；出席，在场；风度，风采</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>sentiment</string>
+			<key>chn</key>
+			<string>n. 观点，看法，情绪；（过于）伤感</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>plausible</string>
+			<key>chn</key>
+			<string>adj. (解释或叙述) 看似合理的，看似道理的；貌似可信的, 巧言令色的, 花言巧语的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>in return</string>
+			<key>chn</key>
+			<string>phrase. 作为报答(或回报);作为交换</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>spoil</string>
+			<key>chn</key>
+			<string>v. 宠坏，溺爱；破坏；（使）腐坏
+
+n. 战利品；因成功获得的好处</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>invent</string>
+			<key>chn</key>
+			<string>v. 发明, 创造, 编造, 捏造</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>stage</string>
+			<key>chn</key>
+			<string>n. 阶段, 步, 步骤, 舞台, 驿站
+
+v. 举行, 上演, 举办, 组织</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>desirable</string>
+			<key>chn</key>
+			<string>adj. 向往的, 可取的, 值得拥有的, 值得做的；性感的
+
+n. 称心如意的人[东西]</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bootcamps</string>
+			<key>chn</key>
+			<string>n.[C] 训练营</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>relevant</string>
+			<key>chn</key>
+			<string>adj. 相关的；适当的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>hypotheses</string>
+			<key>chn</key>
+			<string>n. 假定；臆测（hypothesis的复数）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>frighten</string>
+			<key>chn</key>
+			<string>v. 使惊吓, 使惊恐</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>estimate</string>
+			<key>chn</key>
+			<string>v. 估计，估价
+
+n. 估计，估价</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>stretching</string>
+			<key>chn</key>
+			<string>n. 伸展</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>regulatory</string>
+			<key>chn</key>
+			<string>adj. 管理的, 调整的, 监管的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>crack</string>
+			<key>chn</key>
+			<string>v. （使）破裂，断裂；重击，猛击
+
+n. 裂缝；缝隙；（突然的）爆裂声；笑话，俏皮话
+
+adj. 训练有素的；技艺高超的；优秀的；一流的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>potentially</string>
+			<key>chn</key>
+			<string>adv. 潜在地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>forging</string>
+			<key>chn</key>
+			<string>n. 锻炼,伪造</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>collaborations</string>
+			<key>chn</key>
+			<string>n. 合作, 协作, 合作成果（或作品）, 通敌</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prosecute</string>
+			<key>chn</key>
+			<string>v. 起诉, 控告, 检举, 担任控方律师</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prairie</string>
+			<key>chn</key>
+			<string>n. （北美的）大草原</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>acre</string>
+			<key>chn</key>
+			<string>n. 英亩（4 840 平方码，约为 4 050 平方米）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>compensate</string>
+			<key>chn</key>
+			<string>v. 补偿；弥补；赔偿，赔款</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>coalition</string>
+			<key>chn</key>
+			<string>n. 联盟, 联合, 结合, （两党或多党）联合政府</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>monitoring</string>
+			<key>chn</key>
+			<string>v. 监控, 监视, 监听, 检查
+
+n. 班长, 监测仪, 屏幕, 显示屏</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>rhetoric</string>
+			<key>chn</key>
+			<string>n. 修辞, 花言巧语, 华而不实的言语, 修辞技巧</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>complaint</string>
+			<key>chn</key>
+			<string>n. 抱怨；埋怨；投诉；控告；（不严重的）疾病</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mournfully</string>
+			<key>chn</key>
+			<string>adv. 悲哀地；凄惨地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>spining</string>
+			<key>chn</key>
+			<string>v. 旋转, 纺纱, 吐丝, 纺线
+
+n. 头晕, (快速)旋转, 常用于英式英语, 晕头转向</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>novelist</string>
+			<key>chn</key>
+			<string>n. 小说家</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>instrumentally</string>
+			<key>chn</key>
+			<string>adv. 工具性地；有作用地，助益地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>immersive</string>
+			<key>chn</key>
+			<string>adj. （计算机系统或图像）沉浸式虚拟现实的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>slot</string>
+			<key>chn</key>
+			<string>n. (投放或插入东西的)窄缝; 槽沟; 狭槽; 位置, 职位; (广播节目等的)一档; 停车空位; 足迹, 踪迹
+
+v. 插入; 被塞进; 把…排入; 把…纳入; 占有位置; 跟踪</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>infinite</string>
+			<key>chn</key>
+			<string>adj. 无限的，无穷无尽的；极大的
+
+n. 无限，无尽的事物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>conveyor</string>
+			<key>chn</key>
+			<string>n. 运送者, 传送者, 传播者, 传达者</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>fuel</string>
+			<key>chn</key>
+			<string>n. 燃料, 燃油, 【新闻传媒】推动力
+
+v. (给…)加油, 加燃料; 加剧, 使恶化, 使更强烈;【新闻传媒】加速</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>ritualistic</string>
+			<key>chn</key>
+			<string>adj. 仪式的, 老套的, 例行公事的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>distraction</string>
+			<key>chn</key>
+			<string>n. 消遣, 分散注意力的事, 使人分心的事, 娱乐；心烦意乱</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>techniques</string>
+			<key>chn</key>
+			<string>n. 技术, 工艺, 技巧, 技能</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>repetitive</string>
+			<key>chn</key>
+			<string>adj. 重复乏味的, 多次重复的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>metaphor</string>
+			<key>chn</key>
+			<string>n. 隐喻, 暗喻</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prize</string>
+			<key>chn</key>
+			<string>n. 奖, 奖品, 奖金, 奖赏
+
+adj. 好得足以得奖的, 应获奖的, 优秀的, 典范性的
+
+v. 珍视, 高度重视</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>milestones</string>
+			<key>chn</key>
+			<string>n. 里程碑, 转折点, 重要事件, 重要阶段</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pace</string>
+			<key>chn</key>
+			<string>n. （移动的）步速；速度，节奏；一步，一步之距
+
+v. 为…定速度；来回踱步</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>searing</string>
+			<key>chn</key>
+			<string>adj. 灼人的, 火辣辣的, 猛烈批评的
+
+v. “sear”的现在分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>aspect</string>
+			<key>chn</key>
+			<string>n. 方面, 层面, 外观, 方位</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>signpost</string>
+			<key>chn</key>
+			<string>n. 路标
+
+v. 设置路标, 介绍（论证、讲话等的）要点</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mortgage</string>
+			<key>chn</key>
+			<string>n. 按揭贷款；抵押
+
+v. （向银行等）抵押（房产）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>struck</string>
+			<key>chn</key>
+			<string>v. 罢工，打击，撞击 strike的过去式(分词)
+
+adj. 〈美〉罢工中的; 受罢工影响的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dictate</string>
+			<key>chn</key>
+			<string>v. 口授, 口述; 使听写; 命令, 发号施令; 支配
+
+n. 命令; 支配; 规定; 要求</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>indulge</string>
+			<key>chn</key>
+			<string>v. 沉迷于，纵情于；放任，放纵，迁就；满足（欲望）；参加（违法活动）</string>
 			<key>status</key>
 			<string></string>
 		</dict>
