@@ -72,6 +72,9 @@
     self.cancelButton.layer.masksToBounds = YES;
     
     self.progressView.progress = 0.0;
+    
+    self.titleLabel.text = @"";
+    self.subtitleLabel.text = @"";
 }
 
 #pragma mark - load data
@@ -185,6 +188,7 @@
         self.subtitleLabel.hidden = NO;
         self.corfirmButton.hidden = YES;
         [self.cancelButton setTitle:@"下一个" forState:UIControlStateNormal];
+        [self getAudioWithString:self.model.en];
         return;
     }
     [self reloadData];
@@ -203,6 +207,7 @@
         self.confirmButtonBottom.constant = 0.0;
         self.cancelButtonHeight.constant = 0.0;
         self.errorButton.hidden = NO;
+        [self getAudioWithString:self.model.en];
         return;
     }
     MyWordsModel * model = self.model;
