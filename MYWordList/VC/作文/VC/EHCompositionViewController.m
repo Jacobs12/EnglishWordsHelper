@@ -26,12 +26,20 @@
 
 - (void)createView{
     self.textView.editable = NO;
+    self.textView.font = [UIFont systemFontOfSize:16.0 weight:UIFontWeightRegular];
 }
 
 #pragma mark - load data
 
 - (void)loadData{
-    
+    NSString * path = [[NSBundle mainBundle] pathForResource:@"composition" ofType:@"txt"];
+    NSString * composition = [[NSString alloc]initWithContentsOfFile:path encoding:NSUTF8StringEncoding error:nil];
+    NSMutableParagraphStyle * paragraph = [[NSMutableParagraphStyle alloc]init];
+    paragraph.lineSpacing = 8.0;
+    NSDictionary * options = @{NSParagraphStyleAttributeName:paragraph,NSFontAttributeName:[UIFont systemFontOfSize:17.0 weight:UIFontWeightRegular]};
+    NSMutableAttributedString * attributedString = [[NSMutableAttributedString alloc]initWithString:composition];
+    [attributedString addAttributes:options range:NSMakeRange(0, composition.length)];
+    self.textView.attributedText = attributedString;
 }
 
 #pragma mark - actions

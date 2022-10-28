@@ -15,6 +15,7 @@
                 <outlet property="confirmButtonBottom" destination="siV-YB-Ypc" id="mKk-vu-nxa"/>
                 <outlet property="corfirmButton" destination="LFs-hI-YfF" id="AMz-Xk-QAA"/>
                 <outlet property="countLabel" destination="MAp-UH-Bts" id="Wkg-io-dUj"/>
+                <outlet property="downloadButton" destination="mR9-gW-vSe" id="hgd-3D-ftQ"/>
                 <outlet property="errorButton" destination="HB4-aT-SwO" id="SKP-YR-8j5"/>
                 <outlet property="progressView" destination="DW2-hq-DZK" id="xsy-qg-cZQ"/>
                 <outlet property="subtitleLabel" destination="v9S-tM-nw4" id="ZrP-rE-RS5"/>
@@ -139,14 +140,27 @@
                                         <constraint firstAttribute="height" constant="1" id="ani-RX-mG1"/>
                                     </constraints>
                                 </view>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mR9-gW-vSe">
+                                    <rect key="frame" x="298" y="0.0" width="110" height="43"/>
+                                    <state key="normal" title="Button"/>
+                                    <buttonConfiguration key="configuration" style="plain" title="下载全部音频">
+                                        <color key="baseForegroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </buttonConfiguration>
+                                    <connections>
+                                        <action selector="downloadButtonClick:" destination="-1" eventType="touchUpInside" id="WfC-xT-IsV"/>
+                                    </connections>
+                                </button>
                             </subviews>
                             <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             <constraints>
+                                <constraint firstItem="rXk-Oi-TQc" firstAttribute="top" secondItem="mR9-gW-vSe" secondAttribute="bottom" id="DEL-na-G5p"/>
+                                <constraint firstItem="mR9-gW-vSe" firstAttribute="top" secondItem="6O5-3L-tkg" secondAttribute="top" id="RdQ-Rl-pdE"/>
                                 <constraint firstItem="U16-dE-GTn" firstAttribute="leading" secondItem="6O5-3L-tkg" secondAttribute="leading" constant="8" id="Ui7-wX-Foy"/>
                                 <constraint firstAttribute="bottom" secondItem="rXk-Oi-TQc" secondAttribute="bottom" id="X5I-p3-kzB"/>
                                 <constraint firstItem="rXk-Oi-TQc" firstAttribute="leading" secondItem="6O5-3L-tkg" secondAttribute="leading" id="Zn2-a7-xyL"/>
                                 <constraint firstAttribute="height" constant="44" id="efj-Hq-Dj1"/>
                                 <constraint firstItem="U16-dE-GTn" firstAttribute="top" secondItem="6O5-3L-tkg" secondAttribute="top" id="iPY-TL-FKj"/>
+                                <constraint firstAttribute="trailing" secondItem="mR9-gW-vSe" secondAttribute="trailing" constant="6" id="lvW-YX-Tfk"/>
                                 <constraint firstAttribute="trailing" secondItem="rXk-Oi-TQc" secondAttribute="trailing" id="oj8-Ab-JIB"/>
                             </constraints>
                         </view>

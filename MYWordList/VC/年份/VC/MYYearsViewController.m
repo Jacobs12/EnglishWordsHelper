@@ -104,6 +104,7 @@
     }else{
         MYTrstViewController * vc = [[MYTrstViewController alloc]init];
         vc.id1 = id1;
+        vc.categories = self.dataArray;
         [self.navigationController pushViewController:vc animated:YES];
     }
 }

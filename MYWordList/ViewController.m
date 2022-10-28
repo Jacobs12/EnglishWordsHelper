@@ -7,6 +7,7 @@
 
 #import "ViewController.h"
 #import "MYYearsViewController.h"
+#import "EHCompositionViewController.h"
 
 @interface ViewController ()
 
@@ -18,6 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.navigationController.navigationBarHidden = YES;
+    self.navigationController.interactivePopGestureRecognizer.delegate = nil;
     
 }
 
@@ -35,5 +37,9 @@
     [self.navigationController pushViewController:vc animated:YES];
 }
 
+- (IBAction)compositionButtonClick:(id)sender{
+    EHCompositionViewController * vc = [[EHCompositionViewController alloc]init];
+    [self.navigationController pushViewController:vc animated:YES];
+}
 
 @end

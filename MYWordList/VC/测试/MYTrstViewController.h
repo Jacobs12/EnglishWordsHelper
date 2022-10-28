@@ -14,6 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic,copy) NSString * id1;
 @property (nonatomic,assign) MyListType type;
+@property (nonatomic,strong) NSArray * categories;
 
 @end
 
