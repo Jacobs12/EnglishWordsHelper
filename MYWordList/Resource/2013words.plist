@@ -263,9 +263,17 @@ vt. 使用，获取；存取，访问（计算机信息）</string>
 			<key>en</key>
 			<string>genius</string>
 			<key>chn</key>
-			<string>unique</string>
+			<string>n. 天才, 天赋, 天才人物, 天资</string>
 			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>unique</string>
+			<key>chn</key>
 			<string>adj. 唯一的，独一无二的；罕见的；独具的，特有的</string>
+			<key>status</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>en</key>
@@ -920,14 +928,6 @@ n. 疯子</string>
 v. 做预算；节省开支
 
 adj. 不贵的，廉价的</string>
-			<key>status</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>en</key>
-			<string></string>
-			<key>chn</key>
-			<string></string>
 			<key>status</key>
 			<string></string>
 		</dict>

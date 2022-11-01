@@ -28,6 +28,7 @@
 - (void)createView{
     self.textView.editable = NO;
     self.textView.font = [UIFont systemFontOfSize:16.0 weight:UIFontWeightRegular];
+    self.textView.showsVerticalScrollIndicator = NO;
 }
 
 #pragma mark - load data

@@ -153,7 +153,9 @@
             return;
         }
     }
-    
+    if([string containsString:@" "]){
+        return;
+    }
 //    发音 http://dict.youdao.com/dictvoice?type=0&audio=
     NSString * url = [NSString stringWithFormat:@"http://dict.youdao.com/dictvoice?type=0&audio=%@",string];
     [GXNetworking GETWithHost:url headers:@{} finished:^(NSURLResponse * _Nonnull response, NSData * _Nonnull responseData) {
