@@ -15,6 +15,588 @@
 	<array>
 		<dict>
 			<key>en</key>
+			<string>reveals</string>
+			<key>chn</key>
+			<string>v. 显示；表明；透露；揭露；展示；使显露</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>satisfy</string>
+			<key>chn</key>
+			<string>v. 使…满意；使…信服</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pile</string>
+			<key>chn</key>
+			<string>n. 一堆; 大量; 高大建筑; 建筑群; 电池组
+
+v. 堆积; 拥, 挤</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>shock</string>
+			<key>chn</key>
+			<string>n. 休克, 震惊, 惊愕, 令人震惊的事；撞击；电击
+
+v. 使震惊, 使惊愕, 使气愤, 使厌恶；使受电击
+
+adj. 蓬乱的, 茂密的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>disgusting</string>
+			<key>chn</key>
+			<string>adj. 极糟的, 令人不快的, 令人厌恶的, 令人气愤的
+
+v. “disgust”的现在分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>seek</string>
+			<key>chn</key>
+			<string>v. 寻求，寻找，物色；搜索</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>regret</string>
+			<key>chn</key>
+			<string>v. 懊悔, 感到遗憾, 惋惜, 有礼貌地或正式地表示抱歉、痛惜或悲伤
+
+n. 遗憾, 懊悔, 痛惜, 失望</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>forgive</string>
+			<key>chn</key>
+			<string>v. 原谅, 宽恕, 请原谅, 对不起</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inquiry</string>
+			<key>chn</key>
+			<string>n. 打听，询问；调查，查问；探究，探索</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>diligence</string>
+			<key>chn</key>
+			<string>n. 勤奋, 勤勉, 用功</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>deceptive</string>
+			<key>chn</key>
+			<string>adj. 欺骗性的, 误导的, 骗人的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>trace</string>
+			<key>chn</key>
+			<string>v. 仔细找寻；追踪，找出根源；研究…的历史；探索…的发展；追寻…的轨迹；描绘，勾画轮廓
+
+n. 痕迹；遗迹；踪迹；足迹；微量，少许；追查，追踪</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>conceal</string>
+			<key>chn</key>
+			<string>v. 隐藏，掩盖</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>promise</string>
+			<key>chn</key>
+			<string>v. 承诺，保证；有希望，有可能
+
+n. 承诺，保证；希望，迹象</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pretend</string>
+			<key>chn</key>
+			<string>v. 假装, 佯装, 自称, 模拟
+
+adj. 假装的, 想象的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pioneering</string>
+			<key>chn</key>
+			<string>adj. 开拓性的, 先驱性的, 探索性的
+
+v. “pioneer”的现在分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>utterly</string>
+			<key>chn</key>
+			<string>adv. 完全地, 绝对地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>graffitied</string>
+			<key>chn</key>
+			<string>n. （公共场所墙上等处的）涂鸦
+
+v. 在…上涂鸦</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>assembling</string>
+			<key>chn</key>
+			<string>v. 聚集，集合；装配</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>insidious</string>
+			<key>chn</key>
+			<string>adj. 潜伏的，隐袭的，隐伏的，阴险的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inferiority</string>
+			<key>chn</key>
+			<string>n. 劣势, 低等, 劣等</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>subtle</string>
+			<key>chn</key>
+			<string>adj. 不易察觉的；微妙的；机智的；狡猾的；巧妙的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>devaluing</string>
+			<key>chn</key>
+			<string>v. 贬低, 使（货币）贬值, 降低…的价值</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>frustrated</string>
+			<key>chn</key>
+			<string>adj. 沮丧的, 失败的
+
+v. frustrate的过去式和过去分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>vanishing</string>
+			<key>chn</key>
+			<string>v. 消失，不见了；绝迹
+
+n. 弱化音</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>momentum</string>
+			<key>chn</key>
+			<string>n. 动量, 势头, 动力, 推进力</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>stems</string>
+			<key>chn</key>
+			<string>n. 茎，干，梗；词干；血统
+
+v. 堵住；阻止；起源于，发生</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>farsighted</string>
+			<key>chn</key>
+			<string>adj. 有远见, 远视(的)</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>turbines</string>
+			<key>chn</key>
+			<string>n. 汽轮机, 涡轮机</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>notably</string>
+			<key>chn</key>
+			<string>adv. 特别, 非常, 尤其, 极大程度上</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>vehicle</string>
+			<key>chn</key>
+			<string>n. 交通工具，车辆；工具；传播媒介</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bet</string>
+			<key>chn</key>
+			<string>v. 下赌注（于）, 用…打赌, 敢说, 八成儿
+
+n. 打赌, 赌注, 预计, 估计</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>rarity</string>
+			<key>chn</key>
+			<string>n. 罕见, 稀有, 珍品, 稀有物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>spiking</string>
+			<key>chn</key>
+			<string>n. 钉子; 尖状物; 穗; 穗状花序; 猛增
+
+v. 激增; 用尖物刺入(或扎破); 在…中偷偷掺入(烈酒、毒药或毒品); 阻止, 制止; 弃置(新闻稿)不用</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>astonishing</string>
+			<key>chn</key>
+			<string>adj. 令人十分惊讶的, 使人大为惊奇的, 难以置信的
+
+v. “astonish”的现在分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>intricate</string>
+			<key>chn</key>
+			<string>adj. 错综复杂的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>revealing</string>
+			<key>chn</key>
+			<string>adj. 透露真情的, 袒露身体的
+
+v. reveal 的现在分词形式</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>whip</string>
+			<key>chn</key>
+			<string>v. 鞭打, 鞭笞, 〈口〉击败, 抽打
+
+n. 鞭子, 【无线】鞭状天线, 投票指示, (某党)议员领袖</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>remedied</string>
+			<key>chn</key>
+			<string>n. 解决方法，解决良方；药品，治疗方法
+
+v. 改正；纠正；改善</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>abuses</string>
+			<key>chn</key>
+			<string>n. 虐待；滥用； 辱骂，谩骂； 侮辱； 恶习，陋习
+
+vt. 虐待；滥用，妄用；辱骂，谩骂；伤害；摧残</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>aphids</string>
+			<key>chn</key>
+			<string>n. 蚜虫</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>honeydew</string>
+			<key>chn</key>
+			<string>n. 蜜露, 甜味烟草</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>predatory</string>
+			<key>chn</key>
+			<string>adj. 捕食性的, 压榨他人的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>spammers</string>
+			<key>chn</key>
+			<string>n. 垃圾邮件发送者</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mess up</string>
+			<key>chn</key>
+			<string>phrase. 搞砸, 弄糟, 弄脏, 弄乱</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>analogy</string>
+			<key>chn</key>
+			<string>n. 类比；比拟；比喻</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>combat</string>
+			<key>chn</key>
+			<string>n. 搏斗；打仗；战斗
+
+v. 防止；减轻；战斗，与…搏斗</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>trap</string>
+			<key>chn</key>
+			<string>n. （捕捉动物的）陷阱, 圈套, 诡计, 牢笼
+
+v. 使落入险境, 使陷入困境, 卡住, 夹住</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>distraction</string>
+			<key>chn</key>
+			<string>n. 消遣, 分散注意力的事, 使人分心的事, 娱乐；心烦意乱</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>retreat</string>
+			<key>chn</key>
+			<string>v. 撤退，后退，退缩；让步
+
+n. 撤退；让步；隐居地；静养所</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dedicated</string>
+			<key>chn</key>
+			<string>adj. 专注的, 专用的
+
+v. dedicate的过去式和过去分词形式；投入，专注</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prioritise</string>
+			<key>chn</key>
+			<string>v. 按重要性排列；划分优先顺序 ；优先考虑或处理</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>execution</string>
+			<key>chn</key>
+			<string>n. 执行；实施；实行；处决；死刑</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inevitable</string>
+			<key>chn</key>
+			<string>adj. 不可避免的，必然（发生）的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>reap</string>
+			<key>chn</key>
+			<string>v. 取得（成果）, 收获, 收割（庄稼）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>vacation</string>
+			<key>chn</key>
+			<string>n. 假期，休假；休息日
+
+v. 度假</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>vice</string>
+			<key>chn</key>
+			<string>n. 邪恶, 堕落; 缺点, 弱点; 恶习; 虎钳
+
+v. 钳制, 用老虎钳夹紧
+
+prep. 代替
+
+adj. 副的; 代替的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>indispensable</string>
+			<key>chn</key>
+			<string>adj. 不可或缺的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>metal</string>
+			<key>chn</key>
+			<string>n. 金属</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>rut</string>
+			<key>chn</key>
+			<string>n. 车辙, 刻板乏味的生活, （雄鹿等雄性动物的）发情期
+
+v. 在…上留下车印, 在…挖沟, 发淫
+
+n. 常规</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>jolt</string>
+			<key>chn</key>
+			<string>v. 颠簸, 使受到震惊（而采取行动）, 唤醒, 使觉醒
+
+n. 震动, 颠簸, 摇晃, 一阵强烈的感情（尤指震惊或惊讶）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string></string>
+			<key>chn</key>
+			<string></string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string></string>
+			<key>chn</key>
+			<string></string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string></string>
+			<key>chn</key>
+			<string></string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string></string>
+			<key>chn</key>
+			<string></string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
 			<string></string>
 			<key>chn</key>
 			<string></string>

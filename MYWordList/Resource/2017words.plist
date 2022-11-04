@@ -15,9 +15,517 @@
 	<array>
 		<dict>
 			<key>en</key>
+			<string>speculated</string>
+			<key>chn</key>
+			<string>v. 推测，猜测；投机</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>capital</string>
+			<key>chn</key>
+			<string>n. 资本，资金；首都，省会；大写字母
+
+adj. 死刑的；大写的；顶好的，极好的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mutually</string>
+			<key>chn</key>
+			<string>adv. 彼此, 相互地, 共同地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>exclusive</string>
+			<key>chn</key>
+			<string>adj. 排斥的; 排除其它一切的; 专用的; 独有的, 独占的; 独家的; 奢华的; 排外的; 孤傲的
+
+n. 独家新闻; 独家专访; 孤傲的人</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mortality</string>
+			<key>chn</key>
+			<string>n. 死亡率, 生命的有限, 死亡数量</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>agonizing</string>
+			<key>chn</key>
+			<string>adj. 使人十分痛苦的, 令人焦虑不安的, 带来巨大困难的
+
+v. “agonize”的现在分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dullness</string>
+			<key>chn</key>
+			<string>n. 枯燥，迟钝</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>circumstance</string>
+			<key>chn</key>
+			<string>n. （复数）情况，环境，境况；（单数）命运</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>leisure</string>
+			<key>chn</key>
+			<string>n. 闲暇；空闲；休闲
+
+adj. 空闲的，业余的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>overblown</string>
+			<key>chn</key>
+			<string>adj. 过分的, 夸张的, 虚饰过度的, 残败的
+
+v. “overblow”的过去分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>hobby</string>
+			<key>chn</key>
+			<string>n. 业余爱好</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>boasting</string>
+			<key>chn</key>
+			<string>v. 自夸, 自吹自擂, 有（值得自豪的东西）
+
+n. 夸耀, 夸口</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>nevertheless</string>
+			<key>chn</key>
+			<string>adv. 然而, 不过；仍然</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>compensation</string>
+			<key>chn</key>
+			<string>n. 补偿物；赔偿金；使坏的情况变好的事物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>substitute</string>
+			<key>chn</key>
+			<string>v. 用……代替，代以
+
+n. 代替者，代替物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>statistically</string>
+			<key>chn</key>
+			<string>adv. 统计地，统计学上地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>principles</string>
+			<key>chn</key>
+			<string>n. 原则，原理，基本的观念；道德原则，基本的观念行为准则</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>absence</string>
+			<key>chn</key>
+			<string>n. 没有；缺乏；缺席</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>yield</string>
+			<key>chn</key>
+			<string>v. 出产; 产生, 带来; 放弃; 让位; 让路; (使)屈服; (使)投降
+
+n. 出产; 产量; 收益</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tricky</string>
+			<key>chn</key>
+			<string>adj. 难办的, 难对付的, 狡猾的, 诡计多端的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>scarce</string>
+			<key>chn</key>
+			<string>adj. 缺乏的, 不足的, 稀少的
+
+adv. 勉强, 刚, 几乎不, 简直不</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>abroad</string>
+			<key>chn</key>
+			<string>adv. 国外, 海外, 出国, 到国外, 在国外</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pledged</string>
+			<key>chn</key>
+			<string>n. 保证，誓言；抵押，抵押品
+
+v. 保证，发誓；抵押，典当</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>halved</string>
+			<key>chn</key>
+			<string>v. （使）减半；把…对半分</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>ethos</string>
+			<key>chn</key>
+			<string>n. （某团体或社会的）道德思想</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>clapped</string>
+			<key>chn</key>
+			<string>v. 鼓掌，拍手；轻拍某人的背；急速放置
+
+n. 鼓掌；拍手；砰然巨响；霹雳声</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dual</string>
+			<key>chn</key>
+			<string>adj. 两部分的, 双重的, 双的
+
+n. 【数】偶数, 【语】对偶</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tennis</string>
+			<key>chn</key>
+			<string>n. 网球</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>courts</string>
+			<key>chn</key>
+			<string>n. 法庭; 法院; 全体法官(审判员); 审判庭; 球场; 朝廷; 宫廷; 院子; 殷勤; 追求, 求婚
+
+v. 追求, 求婚; 寻求, 吸引; 向…献殷勤; 招致</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>presided</string>
+			<key>chn</key>
+			<string>v. 担任主席；主持（会议、仪式）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>squeezing</string>
+			<key>chn</key>
+			<string>n. 挤压</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>supervise</string>
+			<key>chn</key>
+			<string>v. 监督；管理；指导；主管</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>verbal</string>
+			<key>chn</key>
+			<string>adj. 口头的, 言语的, 词语的, 口头（而非书面）的
+
+n. 〈美口〉口供, 非限定动词, 〈罕〉同“verbal noun”</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tension</string>
+			<key>chn</key>
+			<string>n. 张力, 拉伸, 矛盾, 紧张局势（或关系、状况）
+
+v. 绷紧</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bids</string>
+			<key>chn</key>
+			<string>n. 出价；投标；努力争取
+
+v. 出价；投标；吩咐；努力争取</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>wired</string>
+			<key>chn</key>
+			<string>adj. 连线的, 夹丝的, 兴奋的, 紧张不安的
+
+v. “wire”的过去式和过去分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>disconcerting</string>
+			<key>chn</key>
+			<string>adj. 令人不安的，令人尴尬的，令人想不通的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>exquisitely</string>
+			<key>chn</key>
+			<string>adv. 精致地；精美地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>silly</string>
+			<key>chn</key>
+			<string>adj. 愚蠢的, 不明事理的, 没头脑的, 傻的
+
+n. （常用于向孩子指出其愚蠢行为）傻孩子</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>blow</string>
+			<key>chn</key>
+			<string>v. 吹, 刮; 猛击, 吹动; 吹奏（哨子、乐器等）
+
+n. （用手、武器等的）猛击, 打击; 挫折; 吹
+
+int. 表示厌烦</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>expect</string>
+			<key>chn</key>
+			<string>v. 期望, 预计, 期待, 指望, 怀上, 怀孕(常用作“be expecting”)</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>in favor of</string>
+			<key>chn</key>
+			<string>phrase. 赞成, 有利于, 付与</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dilemma</string>
+			<key>chn</key>
+			<string>n. （进退两难的）窘境</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>perspective</string>
+			<key>chn</key>
+			<string>n. 视角，观点，看法；透视画法；透视效果；客观判断力，权衡轻重的能力
+
+adj. 透视画的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>redirect</string>
+			<key>chn</key>
+			<string>v. （以新的方式或目的）重新使用, 改寄, 改变投递方向</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>hazard</string>
+			<key>chn</key>
+			<string>n. 危险；危害
+
+v. 冒失地提出，冒险猜测；冒…的风险；使处于危险</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>acknowledging</string>
+			<key>chn</key>
+			<string>v. 承认；致意；公开感谢</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inevitable</string>
+			<key>chn</key>
+			<string>adj. 不可避免的，必然（发生）的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
 			<string></string>
 			<key>chn</key>
+			<string>ecology</string>
+			<key>status</key>
+			<string>n. 生态；生态学</string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>magnifying</string>
+			<key>chn</key>
+			<string>v. 放大，增强；夸大</string>
+			<key>status</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>admitting</string>
+			<key>chn</key>
+			<string>v. 承认，供认；允许</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>do away with</string>
+			<key>chn</key>
+			<string>phrase. 废除;结束;去掉
+
+phrase. 杀死,干掉</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>come to terms with</string>
+			<key>chn</key>
+			<string>phrase. 谈得拢, 和…达成协议, 与…友好相处, 追恋</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>refrain</string>
+			<key>chn</key>
+			<string>v. 克制；节制；避免
+
+n. 副歌；迭歌；迭句</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>defending</string>
+			<key>chn</key>
+			<string>v. 防卫，守卫；为……辩护</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>plucked</string>
+			<key>chn</key>
+			<string>v. 摘，拔（去）；弹拨（弦）；解救
+
+n. 胆识，胆量；内脏；快而猛的拉；勇气</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>exposed</string>
+			<key>chn</key>
+			<string>adj. 无遮蔽的, 不遮挡风雨的, 易受攻击（或批评）的, 无保护的
+
+v. “expose”的过去分词和过去式</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>cofounded</string>
+			<key>chn</key>
+			<string>v. 共同创办</string>
 			<key>status</key>
 			<string></string>
 		</dict>
