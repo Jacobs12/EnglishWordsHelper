@@ -15,9 +15,479 @@
 	<array>
 		<dict>
 			<key>en</key>
-			<string></string>
+			<string>weighing</string>
 			<key>chn</key>
+			<string>v. 权衡；称……重量；重量为……；具有重要性</string>
+			<key>status</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>gym</string>
+			<key>chn</key>
+			<string>n. 健身房, 体育馆, （尤指学校的）体育活动</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inches</string>
+			<key>chn</key>
+			<string>n. 英寸（长度单位，等于 2.54 厘米，1 英尺等于 12 英寸）
+
+v. （使朝某方向）谨慎移动</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bimonthly</string>
+			<key>chn</key>
+			<string>adj. 两月一次（的）, 一月两次（的）
+
+n. 双月刊, 半月刊
+
+adv. 隔月, 每月两次</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>caloric</string>
+			<key>chn</key>
+			<string>adj. 热(量)的, 热质的, 蒸气推动的, 卡(路里)的
+
+n. 热(量), 【化】热质</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>intake</string>
+			<key>chn</key>
+			<string>n. 吸收，吸入；（液体、气体等的）入口；（食物、饮料等的）摄入量；吸纳的新人数</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>initially</string>
+			<key>chn</key>
+			<string>adv. 最初, 开始, 起初</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>depiction</string>
+			<key>chn</key>
+			<string>n. 描写</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>precise</string>
+			<key>chn</key>
+			<string>adj. 精确的，准确的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>track</string>
+			<key>chn</key>
+			<string>n. 小路, 小径; 足迹, 踪迹; 跑道; 轨道; 路线; 一首歌曲; 音轨; 工作方向; 思路
+
+v. 跟踪, 追踪; 留下印迹; 沿轨道运行</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>conceal</string>
+			<key>chn</key>
+			<string>v. 隐藏，掩盖</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>sick</string>
+			<key>chn</key>
+			<string>adj. 生病的；想呕吐；恶心；厌烦的；厌恶的；变态的；病态的
+
+n. 病人, 呕吐物
+
+v. 攻击, 追击, (纵狗)追击, 〈美〉嗾使(狗等)去咬[去攻击]</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>principle</string>
+			<key>chn</key>
+			<string>n. 原则，原理，基本的观念；道德原则，基本的观念行为准则</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>restricting</string>
+			<key>chn</key>
+			<string>v. 限制，约束；限定</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>consuming</string>
+			<key>chn</key>
+			<string>adj. （感情）强烈的；令人沉迷的
+
+v. “consume”的现在分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dominating</string>
+			<key>chn</key>
+			<string>adj. 主要的，专横的，独裁的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>triumphing</string>
+			<key>chn</key>
+			<string>n. 巨大成功, 重大成就, 伟大胜利, 喜悦
+
+v. 战胜, 成功, 打败</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>grasp</string>
+			<key>chn</key>
+			<string>v. 抓住，紧握；领会
+
+n. 抓，握；把握；领会</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>appease</string>
+			<key>chn</key>
+			<string>v. 安抚, 抚慰, 绥靖（满足另一国的要求以避免战争）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>binary</string>
+			<key>chn</key>
+			<string>adj. 二进制的（用 0 和 1 记数）, 仅基于两个数字的, 二元的
+
+n. 二, 双体, 【天】双[联]星【数学】二进制</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>compensate</string>
+			<key>chn</key>
+			<string>v. 补偿；弥补；赔偿，赔款</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>deficiency</string>
+			<key>chn</key>
+			<string>n. 缺乏，不足，缺点</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>assessments</string>
+			<key>chn</key>
+			<string>n. 估价；评估</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>sympathy</string>
+			<key>chn</key>
+			<string>n. 同情, 赞同, 支持, 意气相投</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inclined</string>
+			<key>chn</key>
+			<string>adj. 想（做某事）, 有…倾向, 很可能
+
+v. “incline”的过去式和过去分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inexcusable</string>
+			<key>chn</key>
+			<string>adj. 不可宽恕的, 无法原谅的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>trap</string>
+			<key>chn</key>
+			<string>n. （捕捉动物的）陷阱, 圈套, 诡计, 牢笼
+
+v. 使落入险境, 使陷入困境, 卡住, 夹住</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>capacity</string>
+			<key>chn</key>
+			<string>n. 容量，容积；能力；生产力；地位；职位，职责
+
+adj. (达到最大容量)满的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>draw</string>
+			<key>chn</key>
+			<string>v. 描画; 拖(动), 拉(动), 牵引; 取出; 抽出; 提取; 取得; 推断出; 引起; 吸引; 打成平局
+
+n. 拉; 拖; 抽; 提取; 吸引力; 平局; 抽签</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>auctions</string>
+			<key>chn</key>
+			<string>n. 拍卖
+
+v. 拍卖</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>acreage</string>
+			<key>chn</key>
+			<string>n. 英亩数；大片土地；面积</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prioritize</string>
+			<key>chn</key>
+			<string>v. 给…排出优先级, 优先处理</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>overhaul</string>
+			<key>chn</key>
+			<string>v. 彻底检修, 赶上
+
+n. 检修, 大修, 改造</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>congress</string>
+			<key>chn</key>
+			<string>n. 国会, 代表大会, 议会, （用于某些国家的政党名称）国民大会
+
+v. 开会</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>agricultural</string>
+			<key>chn</key>
+			<string>adj. 农学(上)的；农业的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>crop</string>
+			<key>chn</key>
+			<string>n. 庄稼, 作物, 产量, 一批人
+
+v. 剪短, 裁切（照片或图画）, 啃吃（青草或其他植物上面的部分）, 有收成</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mechanization</string>
+			<key>chn</key>
+			<string>n. 机械化；机动化</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>cap</string>
+			<key>chn</key>
+			<string>n. （尤指男用有帽舌的）便帽, 软帽, （大学师生在特别场合戴的）方帽, 盖子；上限，封顶
+
+v. 用…覆盖顶部（或端部）, 限额收取（或支出）, 胜过, 超过
+
+abbr. (=Common Agricultural Policy)(欧洲经济共同体)共同农业政策</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>nonagricultural</string>
+			<key>chn</key>
+			<string>adj. 非农业的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>compounded</string>
+			<key>chn</key>
+			<string>adj. 由…合成的;由…组成的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>discrimination</string>
+			<key>chn</key>
+			<string>n. 歧视；辨别力，鉴赏力；识别，区别</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>flaws</string>
+			<key>chn</key>
+			<string>n. 错误，缺点；裂痕，瑕疵
+
+v. 使有缺陷</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tightened</string>
+			<key>chn</key>
+			<string>v. 使变紧；勒紧；使牢固</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>plastic</string>
+			<key>chn</key>
+			<string>adj. 塑料的；可塑的；不自然的，做作的
+
+n. 塑料；信用卡</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>swap</string>
+			<key>chn</key>
+			<string>v. 换, 掉换, 交换, 替换
+
+n. 〈非正式〉交换, 〈非正式〉交换物, 【商】互换信贷</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>enact</string>
+			<key>chn</key>
+			<string>v. 扮演； 颁布；制定法律；担任…角色, 演出</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>directed</string>
+			<key>chn</key>
+			<string>adj. 有指导的, 定向的, 【数】标出(数、角、线段的)正负的
+
+v. “direct”的过去式和过去分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>trash</string>
+			<key>chn</key>
+			<string>n. 垃圾, 废物, 谬论, 劣质品
+
+v. 损坏, 毁坏, 抨击, 谴责</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mechanism</string>
+			<key>chn</key>
+			<string>n. 机械装置，机件；方法，机制</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>estate</string>
+			<key>chn</key>
+			<string>n. 地产, 财产, 遗产; 庄园; 工业区; 商业区; 住宅区; 阶层, 社会地位; (人生)阶段, 状况</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>proclivity</string>
+			<key>chn</key>
+			<string>n. （常指对坏事的）倾向</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>contingent</string>
+			<key>chn</key>
+			<string>adj. 偶然的; 依情况而定的
+
+n. 代表团; (军队的)分遣队</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>customize</string>
+			<key>chn</key>
+			<string>v. 定制</string>
 			<key>status</key>
 			<string></string>
 		</dict>
