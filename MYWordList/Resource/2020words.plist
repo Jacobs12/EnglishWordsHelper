@@ -15,9 +15,449 @@
 	<array>
 		<dict>
 			<key>en</key>
-			<string></string>
+			<string>calm</string>
 			<key>chn</key>
+			<string>adj. 泰然自若的, (海洋,天气等)安静的, 若无其事的, 静寂的
+
+n. 平静, 恬静, 不动声色, 风平浪静
+
+v. (使)平静下来, 使镇静</string>
+			<key>status</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>scream</string>
+			<key>chn</key>
+			<string>v. （因伤痛、害怕、激动等）尖叫, （向某人或为某事）高声喊
+
+n. 尖叫, 尖锐刺耳的声音, 可笑的人（或物）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>vital</string>
+			<key>chn</key>
+			<string>adj. 必不可少的；重要的；生机勃勃的，充满生机的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>fatigue</string>
+			<key>chn</key>
+			<string>n. 疲乏，疲劳，疲倦</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>stress</string>
+			<key>chn</key>
+			<string>n. 压力; 紧迫, 紧张; 造成紧张的因素; 强调; 重要性; 重音; 重读; [物]应力
+
+v. 着重, 强调; 重读; 使受应力; 加压力于; (使)紧张; 焦虑</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>practical</string>
+			<key>chn</key>
+			<string>adj. 实际的，实用的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>instructive</string>
+			<key>chn</key>
+			<string>adj. 富有教益的, 增长知识的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tricky</string>
+			<key>chn</key>
+			<string>adj. 难办的, 难对付的, 狡猾的, 诡计多端的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>in addition</string>
+			<key>chn</key>
+			<string>phrase. 另外,兼之</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inevitable</string>
+			<key>chn</key>
+			<string>adj. 不可避免的，必然（发生）的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>harsh</string>
+			<key>chn</key>
+			<string>adj. 严厉的, 残酷的; 恶劣的, 艰苦的；刺眼的, 丑陋的; 刺耳的, 难听的; 粗糙的, 刺激性强的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>vague</string>
+			<key>chn</key>
+			<string>adj. 模糊的，不明确的；含糊其词的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>regret</string>
+			<key>chn</key>
+			<string>v. 懊悔, 感到遗憾, 惋惜, 有礼貌地或正式地表示抱歉、痛惜或悲伤
+
+n. 遗憾, 懊悔, 痛惜, 失望</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>rat</string>
+			<key>chn</key>
+			<string>n. 老鼠，耗子，讨厌的人，卑鄙的小人
+
+v. 告发，告密；食言，背信弃义；违约
+
+abbr. (RAT=rocket-launched antisubmarine torpedo)火箭发射式反潜鱼雷</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>attuned</string>
+			<key>chn</key>
+			<string>adj. 熟悉, 适应, 习惯</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>trapped</string>
+			<key>chn</key>
+			<string>adj. 捕获的，被困的，截留的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>lever</string>
+			<key>chn</key>
+			<string>n. 撬棒, 杠杆; 控制杆; (用作施加压力等的)手段, 方法
+
+v. 撬动; 使用杠杆; (借助支点)用力移动; 施压获取</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>facial</string>
+			<key>chn</key>
+			<string>adj. 面部的
+
+n. 美容, 面部护理</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>scent</string>
+			<key>chn</key>
+			<string>n. 香味, 香水, 气息, 察觉
+
+v. 嗅出, 闻到, 觉察出, 预感到</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>estimates</string>
+			<key>chn</key>
+			<string>v. 估计，估价
+
+n. 估计，估价</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>dynamic</string>
+			<key>chn</key>
+			<string>adj. 有活力的，精力充沛的；动态的，发展变化的
+
+n. 动力，活力</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>supply</string>
+			<key>chn</key>
+			<string>n. （尤指大量的）补给，供给，供应，贮备
+
+v. 补给，供给，提供，提供足够以满足</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>chains</string>
+			<key>chn</key>
+			<string>n. 链条, 链子, 锁链, 一系列
+
+v. 用锁链拴住（或束缚、固定）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>boggling</string>
+			<key>chn</key>
+			<string>v. （因吃惊而）不知所措</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>virtually</string>
+			<key>chn</key>
+			<string>adv. 几乎, 差不多; 实际上, 事实上; 虚拟地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>ripping</string>
+			<key>chn</key>
+			<string>adj. 极好的, 美妙的
+
+adv. 绝妙地
+
+v. “rip”的现在分词，撕，裂开</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tighter</string>
+			<key>chn</key>
+			<string>adj. 牢固的；紧的；不松动的；难解开的；严格的；密集的；亲密的；紧俏的
+
+adv. 紧紧地, 牢固地
+
+n. 紧身衣</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>rigorous</string>
+			<key>chn</key>
+			<string>adj. 谨慎的，细致的；严格的，严厉的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>candidates</string>
+			<key>chn</key>
+			<string>n. (可以获得某种结果、待遇或职务的)待选人(或物); 申请人, 求职申请人; 选举候选人; 考生, 报考者</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>cozy</string>
+			<key>chn</key>
+			<string>adj. （尤指因地方小或封闭而）温暖舒适的, 亲密无间的, 密切的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>depredation</string>
+			<key>chn</key>
+			<string>n. 掠夺, 劫掠, 破坏</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>guiding</string>
+			<key>chn</key>
+			<string>n. 指南, 向导, 导游, 手册
+
+v. 指导, 指引, 给某人领路（或导游）, 阐明</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>restrictions</string>
+			<key>chn</key>
+			<string>n. 限制, 约束, 制约因素, 限制规定</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>conservative</string>
+			<key>chn</key>
+			<string>adj. 保守的，守旧的
+
+n. 保守派（党）；保守的人</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>council</string>
+			<key>chn</key>
+			<string>n. 委员会；理事会；地方议会；协商会议；市政住房（的）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>termination</string>
+			<key>chn</key>
+			<string>n. 终止, 结束, 端, 末端</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>centrepiece</string>
+			<key>chn</key>
+			<string>n. 最重要的项目；最佳的部分，最具吸引力的部分</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>campaign</string>
+			<key>chn</key>
+			<string>n. 战役, 运动（为社会、商业或政治目的而进行的一系列有计划的活动）
+
+v. 领导运动（如为实现政治变革或赢得竞选）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>controversial</string>
+			<key>chn</key>
+			<string>adj. 引起争论的, 有争议的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>inevitably</string>
+			<key>chn</key>
+			<string>adv. 必然，必定，免不了；不可避免地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>compliance</string>
+			<key>chn</key>
+			<string>n. 遵从, 顺从, 服从</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>definition</string>
+			<key>chn</key>
+			<string>n. 定义；阐释；清晰度</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>cubicles</string>
+			<key>chn</key>
+			<string>n. （大房间分隔出的）小房间</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>counselors</string>
+			<key>chn</key>
+			<string>n. 辅导员, 顾问, 律师, (儿童夏令营等中的)领队[教导员]</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pragmatists</string>
+			<key>chn</key>
+			<string>n. 【哲】实用主义者, 请求实际的人, 爱管闲事的人</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>adventurous</string>
+			<key>chn</key>
+			<string>adj. 有冒险精神的, 大胆开拓的, （指事物、方法、思想）新奇的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>reveal</string>
+			<key>chn</key>
+			<string>v. 显示；表明；透露；揭露；展示；使显露</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bone</string>
+			<key>chn</key>
+			<string>n. 骨，骨头；骨质物；骨骼，身体；基本结构；核心，本质
+
+v. 剔掉…的骨头，去掉…的骨</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>stray</string>
+			<key>chn</key>
+			<string>v. 迷路，走失；偏离正题；走神
+
+adj. 走失的；零星的
+
+n. 离群者；走散者；走失的宠物或家畜</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>engender</string>
+			<key>chn</key>
+			<string>v. 产生</string>
 			<key>status</key>
 			<string></string>
 		</dict>
