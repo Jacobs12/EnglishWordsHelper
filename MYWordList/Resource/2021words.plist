@@ -15,9 +15,441 @@
 	<array>
 		<dict>
 			<key>en</key>
-			<string></string>
+			<string>consequences</string>
 			<key>chn</key>
+			<string>n. 结果，后果</string>
+			<key>status</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>distorted</string>
+			<key>chn</key>
+			<string>adj. 扭曲的, 变形的, 受到曲解的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>punished</string>
+			<key>chn</key>
+			<string>v. 惩罚, 处罚, 对…判罪, 判定…的处罚方式</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>assess</string>
+			<key>chn</key>
+			<string>v. 评价, 评定; 估价, 估计</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mocked</string>
+			<key>chn</key>
+			<string>v. 嘲笑；（模仿）嘲弄；不尊重；蔑视
+
+adj. 虚假的，不诚实的；模仿的，模拟的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>hired</string>
+			<key>chn</key>
+			<string>v. 雇用, 聘用, 租用, 录用
+
+n. 租用, 租赁, 租借, 新雇员</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>admitted</string>
+			<key>chn</key>
+			<string>adj. 被承认了的, (事实)公认的
+
+v. “admit”的过去式和过去分词</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>departure</string>
+			<key>chn</key>
+			<string>n. 离开，出发；离职；违背，背离</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>sacrifice</string>
+			<key>chn</key>
+			<string>v. 牺牲；舍弃；献出；献祭
+
+n. 牺牲，供俸，祭品</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>specify</string>
+			<key>chn</key>
+			<string>v. 明确说明；具体指定；详细说明</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>achieve</string>
+			<key>chn</key>
+			<string>v. 完成, 实现; 达到, 得到, 获得</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>present</string>
+			<key>chn</key>
+			<string>adj. 目前的, 现在的; 出席的, 在场的; 存在的
+
+v. 颁发, 授予; 赠送; 提出; 呈递; 呈现; 表现; 介绍
+
+n. 目前, 现在; 礼物, 礼品</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>massive</string>
+			<key>chn</key>
+			<string>adj. 巨大的；大而重的；结实的；大量的；非常严重的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>languid</string>
+			<key>chn</key>
+			<string>adj. 慢悠悠的, 慵懒的，迟缓无力的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>spiked</string>
+			<key>chn</key>
+			<string>adj. 有穗的；有尖顶的成锥形的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>furlough</string>
+			<key>chn</key>
+			<string>n. （尤指在国外服役士兵的）休假（许可）, （犯人的）准假
+
+v. 给予休假, 强迫…休假</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>appraisal</string>
+			<key>chn</key>
+			<string>n. 评价, 鉴定, 估价, 估计</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>fierce</string>
+			<key>chn</key>
+			<string>adj. 猛烈的；激烈的；凶猛的，凶恶的；〔感情〕强烈的，愤怒的；〔冷、热或天气情况〕极度的，极端的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>sovereignty</string>
+			<key>chn</key>
+			<string>n. 主权, 最高统治权, 最高权威, 独立自主</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>feasible</string>
+			<key>chn</key>
+			<string>adj. 可行的, 行得通的; 合理的; 可用的, 适宜的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>consumed</string>
+			<key>chn</key>
+			<string>adj. 耗尽的, 用光的；充满的；对…着迷的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>caveats</string>
+			<key>chn</key>
+			<string>n. 警告, 告诫</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>drastically</string>
+			<key>chn</key>
+			<string>adv. 彻底地；激烈地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>arable</string>
+			<key>chn</key>
+			<string>adj. 耕作的, 可耕的
+
+n. (可)耕地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bulk</string>
+			<key>chn</key>
+			<string>n. 大宗，大批（买卖）；（大）体积，（大）量；大部分；巨大的一团；巨大的形状
+
+v. 使数量显得更大；显得很重要</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>scrapped</string>
+			<key>chn</key>
+			<string>n. 碎片，小块；丝毫；废料；口角
+
+v. 废弃，取消</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>remorseless</string>
+			<key>chn</key>
+			<string>adj. 持续恶化的, 残酷的, 无情的, 无同情心的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>seedlings</string>
+			<key>chn</key>
+			<string>n. 幼苗, 秧苗, 籽苗</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>declined</string>
+			<key>chn</key>
+			<string>v. 减少，下降；衰退；谢绝
+
+n. 减少，下落，衰退</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>admits</string>
+			<key>chn</key>
+			<string>v. 承认，供认；允许</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>stage</string>
+			<key>chn</key>
+			<string>n. 阶段, 步, 步骤, 舞台, 驿站
+
+v. 举行, 上演, 举办, 组织</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>regulators</string>
+			<key>chn</key>
+			<string>n. 监管机构, （速度、温度、压力的）自动调节器</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>wading</string>
+			<key>chn</key>
+			<string>v. 跋涉，趟水</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>venture</string>
+			<key>chn</key>
+			<string>v. 冒险去(某处); 小心地说, 谨慎地做; 冒险做, 勇于做
+
+n. 冒险; 冒险行动; 风险项目(或活动), (有风险的)企业, 商业, 投机活动 </string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>capital</string>
+			<key>chn</key>
+			<string>n. 资本，资金；首都，省会；大写字母
+
+adj. 死刑的；大写的；顶好的，极好的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>tactic</string>
+			<key>chn</key>
+			<string>n. 策略, 战术</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>acquisitions</string>
+			<key>chn</key>
+			<string>n. (技能、习惯或品质的)习得, 培养; (一家公司对另一家公司的) 收购; 资产获得, 获得物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>examine</string>
+			<key>chn</key>
+			<string>v. 仔细检查；诊察；审查；（尤指在法庭上）审问，查问</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>fairly</string>
+			<key>chn</key>
+			<string>adv. 公正地, 相当地, 一定地, 公平合理地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>slices</string>
+			<key>chn</key>
+			<string>n. 薄的切片；部分；锅铲
+
+v. 切成薄片；大幅降低；砍，削</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>extraneous</string>
+			<key>chn</key>
+			<string>adj. 没有直接联系的, 无关的，无必要的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>intrusive</string>
+			<key>chn</key>
+			<string>adj. 侵入的, 闯入的, 侵扰的, 烦扰的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>demonstrating</string>
+			<key>chn</key>
+			<string>v. 显示；演示；证明；示威</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>deception</string>
+			<key>chn</key>
+			<string>n. 欺骗, 骗局, 骗术, 诡计</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pilot</string>
+			<key>chn</key>
+			<string>n. 飞行员, 领航员, 引水员, (航空器)驾驶员
+
+v. 试点, 引导, 试行, 驾驶(航空器)
+
+adj. 试验性的, 试点的, 指引的, 引导的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>unleashed</string>
+			<key>chn</key>
+			<string>v. 发泄, 突然释放, 使爆发</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>humble</string>
+			<key>chn</key>
+			<string>adj. 谦逊的, 虚心的, 表示谦逊, （级别或地位）低下的
+
+v. 谦逊, 低声下气, 虚心, 贬低；轻松打败（尤指强大的对手）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>contextualizing</string>
+			<key>chn</key>
+			<string>v. 将…置于背景中考虑, 将…置于上下文中理解</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>subordinate</string>
+			<key>chn</key>
+			<string>adj. 隶属的；下级的；次要的
+
+n. 下级；部属
+
+v. 把…置于次要地位；使从属于</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>panicky</string>
+			<key>chn</key>
+			<string>adj. 焦虑不安的, 惊慌的</string>
 			<key>status</key>
 			<string></string>
 		</dict>
