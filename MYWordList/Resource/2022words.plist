@@ -15,9 +15,423 @@
 	<array>
 		<dict>
 			<key>en</key>
-			<string></string>
+			<string>plumbing</string>
 			<key>chn</key>
+			<string>n. （建筑物的）管路系统, 水暖工的工作
+
+v. “plumb”的现在分词</string>
+			<key>status</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>pipes</string>
+			<key>chn</key>
+			<string>n. 管子，管道；烟斗，烟袋；管乐器
+
+v. 尖声说；吹奏管乐器；用管道运输</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bills</string>
+			<key>chn</key>
+			<string>n. 法案, 账单, 喙, 海报
+
+v. 开账单, 把（某人或事物）宣传为…, 宣布…将做某事</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>determination</string>
+			<key>chn</key>
+			<string>n. 坚定，果断；决心；决定</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>consume</string>
+			<key>chn</key>
+			<string>v. 消耗, 耗费; 吃; 喝; 购买; 消费; 使全神贯注; 充满; （火）吞噬，烧毁</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>curve</string>
+			<key>chn</key>
+			<string>n. 曲线；弯曲
+
+v. （使）弯曲；沿曲线运动</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>supplement</string>
+			<key>chn</key>
+			<string>v. 补充，增补，增加
+
+n. 增补物，补充物，补给品；附录；补编；补遗；增刊；附加费</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>calculate</string>
+			<key>chn</key>
+			<string>v. 计算, 预测, 核算, 推测</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>innovative</string>
+			<key>chn</key>
+			<string>adj. 引进新思想的, 采用新方法的, 革新的, 创新的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>indispensable</string>
+			<key>chn</key>
+			<string>adj. 不可或缺的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>instant</string>
+			<key>chn</key>
+			<string>adj. 立即的, 立刻的, 速食的, 即食的
+
+n. 瞬间, 片刻, 某一时刻
+
+conj. 同“as soon as”</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>peacefully</string>
+			<key>chn</key>
+			<string>adv. 平静地, 安然</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>generously</string>
+			<key>chn</key>
+			<string>adv. 慷慨地；丰盛地；宏大地；宽厚地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>roam</string>
+			<key>chn</key>
+			<string>v. 徜徉，漫步； （缓慢地）扫遍，摸遍</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>bet</string>
+			<key>chn</key>
+			<string>v. 下赌注（于）, 用…打赌, 敢说, 八成儿
+
+n. 打赌, 赌注, 预计, 估计</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>shelves</string>
+			<key>chn</key>
+			<string>v. 搁置, 把…放在架子（或搁板）上, 倾斜, 成斜坡</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>worm</string>
+			<key>chn</key>
+			<string>n. 蠕虫, 蠕虫病毒, （人或动物体内的）寄生虫, 肠虫；[人名]沃姆
+
+v. 曲折行进（尤指通过狭窄或拥挤的地方）, 给（动物）驱肠虫
+
+abbr. (=Write-Once Read Multiple)【计】一写多读光盘</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>hens</string>
+			<key>chn</key>
+			<string>n. 母鸡；【动】雌性家禽</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>forage</string>
+			<key>chn</key>
+			<string>v. 觅食；搜寻
+
+n. 牧草, 饲料, 粮秣, 粮秣的搜索[征发]</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>premium</string>
+			<key>chn</key>
+			<string>n. 保险费, 额外费用, 奖金, 津贴
+
+adj. 优质的, 昂贵的, 价格更高的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>niche</string>
+			<key>chn</key>
+			<string>n. 壁龛, 舒适或称心的工作（或生活等）, （产品的）商机, 市场定位
+
+adj. （产品）针对特定小群体的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>probiotics</string>
+			<key>chn</key>
+			<string>n. 【微】益生菌
+
+adj. 促进有益菌生长的, 益生菌的, 益生素的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>chalked</string>
+			<key>chn</key>
+			<string>n. 白垩, （白色或彩色的）粉笔
+
+v. 用粉笔写（或画）</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>desire</string>
+			<key>chn</key>
+			<string>n. 愿望，欲望；情欲
+
+v. 渴望
+
+adj. 渴望的，想要的，预期的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prospects</string>
+			<key>chn</key>
+			<string>n. 预期, 展望; 景象; (成功、得益等的)可能性, 机会; 前景, 前途
+
+v. 勘探, 勘察</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>upend</string>
+			<key>chn</key>
+			<string>v. 翻倒, 倒放, 使颠倒, 颠覆</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>culprit</string>
+			<key>chn</key>
+			<string>n. 罪犯, 肇事者, 犯错的人, 引起问题的事物</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>mentally</string>
+			<key>chn</key>
+			<string>adv. 精神上, 思想上, 智力上</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>boredom</string>
+			<key>chn</key>
+			<string>n. 无聊, 厌倦, 厌烦</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>regard</string>
+			<key>chn</key>
+			<string>v. 看待, 凝视, 将…认为, 把…视为
+
+n. 尊重, 注意, 关心, 尊敬；方面</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>subscription</string>
+			<key>chn</key>
+			<string>n. 订阅；定期捐款；会员费</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>intentionally</string>
+			<key>chn</key>
+			<string>adv. 故意地，有意地</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>conversations</string>
+			<key>chn</key>
+			<string>n. （非正式）交谈</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>manipulate</string>
+			<key>chn</key>
+			<string>v. 熟练地操作，使用；（暗中）控制，操纵</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>promulgating</string>
+			<key>chn</key>
+			<string>v. 传播, 颁布, 传扬, 宣传</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>undermine</string>
+			<key>chn</key>
+			<string>v. 逐渐削弱（信心、权威等）, 使逐步减少效力, 从根基处破坏, 挖…的墙脚</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>presence</string>
+			<key>chn</key>
+			<string>n. 存在；出席，在场；风度，风采</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>relevant</string>
+			<key>chn</key>
+			<string>adj. 相关的；适当的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>problematic</string>
+			<key>chn</key>
+			<string>adj. 造成困难的, 产生问题的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>vegetarianism</string>
+			<key>chn</key>
+			<string>n. 素食主义</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>achievable</string>
+			<key>chn</key>
+			<string>adj. 做得成的，可实现的</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>ethics</string>
+			<key>chn</key>
+			<string>n. 道德标准, 道德伦理, 伦理标准, 【哲】伦理学</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>determine</string>
+			<key>chn</key>
+			<string>v. （使）下决心，（使）做出决定；确定，查明</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>interpreted</string>
+			<key>chn</key>
+			<string>v. 诠释，说明；理解，领会；演绎；口译</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>habit</string>
+			<key>chn</key>
+			<string>n. 习惯, 习性, 惯常行为, （吸毒、喝酒、抽烟的）瘾
+
+v. 装扮, 〈古〉住在</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>wiped</string>
+			<key>chn</key>
+			<string>v. 擦，消除，拭去
+
+n. 擦拭</string>
+			<key>status</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>en</key>
+			<string>prime</string>
+			<key>chn</key>
+			<string>adj. 首要的, 主要的; 最初的; 基本的; 最好的; 头等的, 第一流的; 青春的; 精力旺盛的; [数]素数的
+
+n. 最初; 初期; 青年; 壮年; 全盛时期; 精华, 最好部分; [数]素数; &lt;口&gt;首相
+
+v. 使准备好; 作准备; 事先指导</string>
 			<key>status</key>
 			<string></string>
 		</dict>
