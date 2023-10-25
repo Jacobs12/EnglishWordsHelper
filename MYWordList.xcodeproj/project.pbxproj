@@ -15,6 +15,16 @@
 		845ED038290A91B7006C1869 /* EHCompositionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 845ED036290A91B7006C1869 /* EHCompositionViewController.m */; };
 		845ED039290A91B7006C1869 /* EHCompositionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 845ED037290A91B7006C1869 /* EHCompositionViewController.xib */; };
 		845ED03B290A93DC006C1869 /* composition.txt in Resources */ = {isa = PBXBuildFile; fileRef = 845ED03A290A93DC006C1869 /* composition.txt */; };
+		8484B19D2AE8ADD00082CB09 /* Sublist_1words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B19C2AE8ADD00082CB09 /* Sublist_1words.plist */; };
+		8484B19F2AE8B4DE0082CB09 /* Sublist_2words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B19E2AE8B4DE0082CB09 /* Sublist_2words.plist */; };
+		8484B1A12AE8B86B0082CB09 /* Sublist_3words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B1A02AE8B86B0082CB09 /* Sublist_3words.plist */; };
+		8484B1A32AE8BDE10082CB09 /* Sublist_4words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B1A22AE8BDE10082CB09 /* Sublist_4words.plist */; };
+		8484B1A52AE8C1290082CB09 /* Sublist_5words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B1A42AE8C1290082CB09 /* Sublist_5words.plist */; };
+		8484B1A72AE8C5560082CB09 /* Sublist_6words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B1A62AE8C5560082CB09 /* Sublist_6words.plist */; };
+		8484B1A92AE8E9030082CB09 /* Sublist_7words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B1A82AE8E9030082CB09 /* Sublist_7words.plist */; };
+		8484B1AB2AE8EC270082CB09 /* Sublist_8words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B1AA2AE8EC270082CB09 /* Sublist_8words.plist */; };
+		8484B1AD2AE8F0960082CB09 /* Sublist_9words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B1AC2AE8F0960082CB09 /* Sublist_9words.plist */; };
+		8484B1AF2AE8F3BD0082CB09 /* Sublist_10words.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8484B1AE2AE8F3BD0082CB09 /* Sublist_10words.plist */; };
 		8494927B28FD2F9600F40405 /* MYTrstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8494927928FD2F9600F40405 /* MYTrstViewController.m */; };
 		8494927C28FD2F9600F40405 /* MYTrstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8494927A28FD2F9600F40405 /* MYTrstViewController.xib */; };
 		84B6A83F28F95BDD0042182E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84B6A83E28F95BDD0042182E /* AppDelegate.m */; };
@@ -78,6 +88,16 @@
 		845ED036290A91B7006C1869 /* EHCompositionViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EHCompositionViewController.m; sourceTree = "<group>"; };
 		845ED037290A91B7006C1869 /* EHCompositionViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EHCompositionViewController.xib; sourceTree = "<group>"; };
 		845ED03A290A93DC006C1869 /* composition.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = composition.txt; sourceTree = "<group>"; };
+		8484B19C2AE8ADD00082CB09 /* Sublist_1words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_1words.plist; sourceTree = "<group>"; };
+		8484B19E2AE8B4DE0082CB09 /* Sublist_2words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_2words.plist; sourceTree = "<group>"; };
+		8484B1A02AE8B86B0082CB09 /* Sublist_3words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_3words.plist; sourceTree = "<group>"; };
+		8484B1A22AE8BDE10082CB09 /* Sublist_4words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_4words.plist; sourceTree = "<group>"; };
+		8484B1A42AE8C1290082CB09 /* Sublist_5words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_5words.plist; sourceTree = "<group>"; };
+		8484B1A62AE8C5560082CB09 /* Sublist_6words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_6words.plist; sourceTree = "<group>"; };
+		8484B1A82AE8E9030082CB09 /* Sublist_7words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_7words.plist; sourceTree = "<group>"; };
+		8484B1AA2AE8EC270082CB09 /* Sublist_8words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_8words.plist; sourceTree = "<group>"; };
+		8484B1AC2AE8F0960082CB09 /* Sublist_9words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_9words.plist; sourceTree = "<group>"; };
+		8484B1AE2AE8F3BD0082CB09 /* Sublist_10words.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Sublist_10words.plist; sourceTree = "<group>"; };
 		8494927828FD2F9600F40405 /* MYTrstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MYTrstViewController.h; sourceTree = "<group>"; };
 		8494927928FD2F9600F40405 /* MYTrstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MYTrstViewController.m; sourceTree = "<group>"; };
 		8494927A28FD2F9600F40405 /* MYTrstViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MYTrstViewController.xib; sourceTree = "<group>"; };
@@ -281,6 +301,16 @@
 				84B6A89228F96FF60042182E /* 2021words.plist */,
 				84B6A89128F96FF60042182E /* 2022words.plist */,
 				84443E292907DF7C0097E4D5 /* 2023新大纲words.plist */,
+				8484B19C2AE8ADD00082CB09 /* Sublist_1words.plist */,
+				8484B19E2AE8B4DE0082CB09 /* Sublist_2words.plist */,
+				8484B1A02AE8B86B0082CB09 /* Sublist_3words.plist */,
+				8484B1A22AE8BDE10082CB09 /* Sublist_4words.plist */,
+				8484B1A42AE8C1290082CB09 /* Sublist_5words.plist */,
+				8484B1A62AE8C5560082CB09 /* Sublist_6words.plist */,
+				8484B1A82AE8E9030082CB09 /* Sublist_7words.plist */,
+				8484B1AA2AE8EC270082CB09 /* Sublist_8words.plist */,
+				8484B1AC2AE8F0960082CB09 /* Sublist_9words.plist */,
+				8484B1AE2AE8F3BD0082CB09 /* Sublist_10words.plist */,
 				84B6A88F28F96CDB0042182E /* example.plist */,
 				845ED03A290A93DC006C1869 /* composition.txt */,
 			);
@@ -350,7 +380,6 @@
 				EB040F9ED364D2182654A515 /* Pods-MYWordList.debug.xcconfig */,
 				A66F033A5441090A8DC6F180 /* Pods-MYWordList.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -477,14 +506,24 @@
 				84B6A8A528F96FF70042182E /* 2015words.plist in Resources */,
 				84B6A87728F95DB70042182E /* MYWholeWordsViewController.xib in Resources */,
 				84B6A89C28F96FF70042182E /* 2022words.plist in Resources */,
+				8484B1A52AE8C1290082CB09 /* Sublist_5words.plist in Resources */,
 				84B6A8A128F96FF70042182E /* 2013words.plist in Resources */,
+				8484B1A92AE8E9030082CB09 /* Sublist_7words.plist in Resources */,
 				84B6A89E28F96FF70042182E /* 2012words.plist in Resources */,
+				8484B19F2AE8B4DE0082CB09 /* Sublist_2words.plist in Resources */,
 				84B6A87A28F95E340042182E /* 2011words.plist in Resources */,
 				84B6A84828F95BDD0042182E /* Main.storyboard in Resources */,
+				8484B1A32AE8BDE10082CB09 /* Sublist_4words.plist in Resources */,
+				8484B19D2AE8ADD00082CB09 /* Sublist_1words.plist in Resources */,
+				8484B1A12AE8B86B0082CB09 /* Sublist_3words.plist in Resources */,
+				8484B1AF2AE8F3BD0082CB09 /* Sublist_10words.plist in Resources */,
 				84B6A89028F96CDB0042182E /* example.plist in Resources */,
 				845ED039290A91B7006C1869 /* EHCompositionViewController.xib in Resources */,
+				8484B1AB2AE8EC270082CB09 /* Sublist_8words.plist in Resources */,
 				84B6A88228F960B90042182E /* MYWordListTableViewCell.xib in Resources */,
 				84B6A89D28F96FF70042182E /* 2021words.plist in Resources */,
+				8484B1A72AE8C5560082CB09 /* Sublist_6words.plist in Resources */,
+				8484B1AD2AE8F0960082CB09 /* Sublist_9words.plist in Resources */,
 				84B6A8A428F96FF70042182E /* 2016words.plist in Resources */,
 				84B6A89F28F96FF70042182E /* 2014words.plist in Resources */,
 				845ED03B290A93DC006C1869 /* composition.txt in Resources */,

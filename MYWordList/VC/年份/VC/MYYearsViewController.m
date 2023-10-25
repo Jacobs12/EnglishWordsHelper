@@ -54,7 +54,17 @@
             @{@"id":@"2020",@"title":@"2020年生僻单词"},
             @{@"id":@"2021",@"title":@"2021年生僻单词"},
             @{@"id":@"2022",@"title":@"2022年生僻单词"},
-            @{@"id":@"2023新大纲",@"title":@"2023年新大纲生僻单词"}
+            @{@"id":@"2023新大纲",@"title":@"2023年新大纲生僻单词"},
+            @{@"id":@"Sublist_1",@"title":@"慕课英语 Sublist 1 单词"},
+            @{@"id":@"Sublist_2",@"title":@"慕课英语 Sublist 2 单词"},
+            @{@"id":@"Sublist_3",@"title":@"慕课英语 Sublist 3 单词"},
+            @{@"id":@"Sublist_4",@"title":@"慕课英语 Sublist 4 单词"},
+            @{@"id":@"Sublist_5",@"title":@"慕课英语 Sublist 5 单词"},
+            @{@"id":@"Sublist_6",@"title":@"慕课英语 Sublist 6 单词"},
+            @{@"id":@"Sublist_7",@"title":@"慕课英语 Sublist 7 单词"},
+            @{@"id":@"Sublist_8",@"title":@"慕课英语 Sublist 8 单词"},
+            @{@"id":@"Sublist_9",@"title":@"慕课英语 Sublist 9 单词"},
+            @{@"id":@"Sublist_10",@"title":@"慕课英语 Sublist 10 单词"}
         ];
         [_dataArray addObjectsFromArray:array];
     }
